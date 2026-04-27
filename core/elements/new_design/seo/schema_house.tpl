@@ -34,22 +34,24 @@
 {var $url     = $cfg['site_url']}
 {var $resUrl  = $_modx->makeUrl($r.id, '', '', 'full')}
 
-{var $absolutize = function($path) use ($url) {
-    return $path ? (preg_match('~^https?://~', $path) ? $path : ($url ~ ltrim($path, '/'))) : null;
-}}
-
 {*
   Главное изображение — приоритет TV house_image_main, fallback —
   первый файл из ms2gallery (msResourceFile).
 *}
 {var $images = []}
-{var $main = $absolutize($r.house_image_main)}
-{if $main}{set $images[] = $main}{/if}
+{var $main = $r.house_image_main}
+{if $main}
+    {if preg_match('~^https?://~', $main)}
+        {set $images[] = $main}
+    {else}
+        {set $images[] = $url ~ ltrim($main, '/')}
+    {/if}
+{/if}
 
 {if !$images}
     {var $rows = $_modx->runSnippet('!pdoResources', [
         'class'   => 'msResourceFile',
-        'where'   => '{"resource_id":' ~ (int)$r.id ~ '}',
+        'where'   => '{"resource_id":' ~ intval($r.id) ~ '}',
         'sortby'  => 'rank',
         'sortdir' => 'ASC',
         'limit'   => 6,
@@ -58,8 +60,11 @@
     ])}
     {if is_array($rows)}
         {foreach $rows as $row}
-            {var $abs = $absolutize($row.url)}
-            {if $abs && !in_array($abs, $images)}{set $images[] = $abs}{/if}
+            {var $u = $row.url}
+            {if $u}
+                {var $abs = preg_match('~^https?://~', $u) ? $u : ($url ~ ltrim($u, '/'))}
+                {if !in_array($abs, $images)}{set $images[] = $abs}{/if}
+            {/if}
         {/foreach}
     {/if}
 {/if}
@@ -83,14 +88,14 @@
 {var $sku = $r.house_sku ?: $r.house_name}
 {if $sku}{set $product['sku'] = $sku}{/if}
 
-{var $price = (float)$r.house_cost}
+{var $price = floatval($r.house_cost)}
 {if $price > 0}
     {var $currency = $r.house_currency ?: 'RUB'}
     {var $availTv  = $r.house_availability ?: 'InStock'}
     {set $product['offers'] = [
         '@type'         => 'Offer',
         'url'           => $resUrl,
-        'price'         => (string)$price,
+        'price'         => strval($price),
         'priceCurrency' => $currency,
         'availability'  => 'https://schema.org/' ~ $availTv,
         'seller'        => ['@id' => $url ~ '#organization']
@@ -122,11 +127,11 @@
 {if $props}{set $product['additionalProperty'] = $props}{/if}
 
 {var $ratingVal = $r.house_rating_value}
-{var $ratingCnt = (int)$r.house_rating_count}
+{var $ratingCnt = intval($r.house_rating_count)}
 {if $ratingVal && $ratingCnt > 0}
     {set $product['aggregateRating'] = [
         '@type'       => 'AggregateRating',
-        'ratingValue' => (string)$ratingVal,
+        'ratingValue' => strval($ratingVal),
         'reviewCount' => $ratingCnt,
         'bestRating'  => '5',
         'worstRating' => '1'

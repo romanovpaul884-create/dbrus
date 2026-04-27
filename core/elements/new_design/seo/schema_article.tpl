@@ -46,8 +46,8 @@
 
 {if $img}
     {var $imgObj = ['@type' => 'ImageObject', 'url' => $img]}
-    {var $iw = (int)$r.article_image_width}
-    {var $ih = (int)$r.article_image_height}
+    {var $iw = intval($r.article_image_width)}
+    {var $ih = intval($r.article_image_height)}
     {if $iw}{set $imgObj['width']  = $iw}{/if}
     {if $ih}{set $imgObj['height'] = $ih}{/if}
     {set $article['image'] = $imgObj}

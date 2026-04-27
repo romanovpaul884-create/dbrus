@@ -63,8 +63,8 @@
 {if $cfg['dbrus_geo_lat'] && $cfg['dbrus_geo_lng']}
     {set $org['geo'] = [
         '@type'     => 'GeoCoordinates',
-        'latitude'  => (string)$cfg['dbrus_geo_lat'],
-        'longitude' => (string)$cfg['dbrus_geo_lng']
+        'latitude'  => strval($cfg['dbrus_geo_lat']),
+        'longitude' => strval($cfg['dbrus_geo_lng'])
     ]}
 {/if}
 

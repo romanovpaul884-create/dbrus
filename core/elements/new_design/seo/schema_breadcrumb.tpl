@@ -3,9 +3,9 @@
   Хлебные крошки на основе цепочки родителей текущего ресурса.
   На главной странице (id == site_start) блок не выводится.
 *}
-{if $_modx->resource.id != $_modx->config.site_start}
-    {var $url = $_modx->config.site_url}
-    {var $homeId = (int)$_modx->config.site_start}
+{if $_modx->resource.id != $_modx->config['site_start']}
+    {var $url = $_modx->config['site_url']}
+    {var $homeId = intval($_modx->config['site_start'])}
 
     {var $items = [[
         'id'   => $homeId,

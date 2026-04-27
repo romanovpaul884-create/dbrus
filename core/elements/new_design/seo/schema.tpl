@@ -24,7 +24,7 @@
     {if $map}
         {foreach explode(',', $map) as $pair}
             {var $kv = explode(':', trim($pair))}
-            {if (int)$kv.0 == (int)$r.template && $kv.1}
+            {if intval($kv.0) == intval($r.template) && $kv.1}
                 {set $type = trim($kv.1)}
                 {break}
             {/if}

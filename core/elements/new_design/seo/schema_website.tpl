@@ -29,4 +29,4 @@
     ]
 ]}
 
-<script type="application/ld+json">{$site | json_encode : 320}</script>
+<script type="application/ld+json">{$site | json_encode : 448}</script>

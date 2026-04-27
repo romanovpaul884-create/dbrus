@@ -89,4 +89,4 @@
 {/foreach}
 {if $sameAs}{set $org['sameAs'] = $sameAs}{/if}
 
-<script type="application/ld+json">{$org | json_encode : 320}</script>
+<script type="application/ld+json">{$org | json_encode : 448}</script>

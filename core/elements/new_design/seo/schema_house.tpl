@@ -51,7 +51,7 @@
 {if !$images}
     {var $rows = $_modx->runSnippet('!pdoResources', [
         'class'   => 'msResourceFile',
-        'where'   => '{"resource_id":' ~ intval($r.id) ~ '}',
+        'where'   => json_encode(['resource_id' => intval($r.id)]),
         'sortby'  => 'rank',
         'sortdir' => 'ASC',
         'limit'   => 6,
@@ -138,4 +138,4 @@
     ]}
 {/if}
 
-<script type="application/ld+json">{$product | json_encode : 320}</script>
+<script type="application/ld+json">{$product | json_encode : 448}</script>

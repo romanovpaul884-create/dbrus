@@ -63,4 +63,4 @@
 {var $section = $r.article_section}
 {if $section}{set $article['articleSection'] = $section}{/if}
 
-<script type="application/ld+json">{$article | json_encode : 320}</script>
+<script type="application/ld+json">{$article | json_encode : 448}</script>

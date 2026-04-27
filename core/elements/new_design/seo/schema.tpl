@@ -16,6 +16,9 @@
 {include 'file:new_design/seo/schema_website.tpl'}
 {include 'file:new_design/seo/schema_breadcrumb.tpl'}
 
+{* 1a. FAQ — выводится сам, если у ресурса непустое поле faq_list *}
+{include 'file:new_design/seo/schema_faq.tpl'}
+
 {* 2. Определяем тип страницы *}
 {var $type = $r.resource_schema_type}
 

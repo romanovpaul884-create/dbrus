@@ -1,29 +1,40 @@
 {*
   Schema.org WebSite (общесайтовый блок).
-  Включает SearchAction — подсказка Google для поля внутреннего поиска.
+  Включает SearchAction для внутреннего поиска по сайту.
 
   Параметры через системные настройки:
     site_name, site_url, cultureKey
-    dbrus_search_url_template (по умолчанию search?q={search_term_string})
+    dbrus_search_url_template — URL-шаблон поиска. Должен содержать
+        литерал search_term_string в фигурных скобках (это требование
+        Google для SearchAction). Пример значения:
+            search?q=LBsearch_term_stringRB
+        где LB и RB — обычные фигурные скобки. В этом файле они
+        нигде не пишутся напрямую, чтобы не запутать Fenom-токенизатор;
+        вместо них используется chr(123) и chr(125).
 
-  ВАЖНО: значение dbrus_search_url_template (и любой URL c фигурными
-  скобками, например google-style {search_term_string}) проходит
-  безопасный пост-эскейп: { → {, } → }. JSON-парсеры (включая
-  Google и Яндекс) декодируют unicode-эскейпы обратно в { и }, так что
-  для поисковика результат идентичен. А Fenom при повторной токенизации
-  собственного вывода не увидит {literal — и не упадёт.
+  Логика экранирования: значение шаблона приходит из настройки уже
+  с фигурными скобками. До json_encode скобки заменяются на маркеры,
+  после json_encode — на JSON unicode-эскейпы (Bsequence, Csequence
+  ниже строятся через chr(92) ~ 'u007B' и т.п.). JSON-парсеры (Google,
+  Yandex, validator.schema.org) декодируют эскейпы обратно. А Fenom при
+  повторной токенизации собственного вывода не видит литеральной скобки
+  перед идентификатором и не падает.
 *}
-{var $cfg = $_modx->config}
-{var $url = $cfg['site_url']}
-{var $searchTpl = $cfg['dbrus_search_url_template'] ?: 'search?q={search_term_string}'}
+{var $cfg  = $_modx->config}
+{var $url  = $cfg['site_url']}
 {var $lang = $cfg['cultureKey'] ?: 'ru-RU'}
 
-{*
-  Подменяем фигурные скобки в шаблоне поиска на маркеры до того, как
-  значение попадёт в json_encode. Так оно не пройдёт через двойную
-  json-эскейп (\\u007B вместо нужного {).
-*}
-{var $searchTplSafe = str_replace(['{', '}'], ['__JSON_LB__', '__JSON_RB__'], $searchTpl)}
+{* {  и  }  без литералов в исходнике *}
+{var $LB    = chr(123)}
+{var $RB    = chr(125)}
+{var $LBesc = chr(92) ~ 'u007B'}
+{var $RBesc = chr(92) ~ 'u007D'}
+
+{* Шаблон поиска: либо настройка, либо безопасный дефолт *}
+{var $searchTpl = $cfg['dbrus_search_url_template'] ?: ('search?q=' ~ $LB ~ 'search_term_string' ~ $RB)}
+
+{* До json_encode скобки → маркеры, чтобы они не дошли до выходного JSON в виде литерала *}
+{var $searchTplSafe = str_replace([$LB, $RB], ['__JSON_LB__', '__JSON_RB__'], $searchTpl)}
 
 {var $site = [
     '@context'        => 'https://schema.org',
@@ -44,5 +55,6 @@
 ]}
 
 {var $json = $site | json_encode : 448}
-{set $json = str_replace(['__JSON_LB__', '__JSON_RB__'], ['{', '}'], $json)}
+{* После json_encode маркеры → unicode-эскейпы ({ / }); в выводе нет литеральной {  *}
+{set $json = str_replace(['__JSON_LB__', '__JSON_RB__'], [$LBesc, $RBesc], $json)}
 <script type="application/ld+json">{$json}</script>

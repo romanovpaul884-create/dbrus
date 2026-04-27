@@ -1,0 +1,1249 @@
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+    <script type="text/javascript" src="https://gc.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=8eEvqj-_o79MKMvBYJ1_cei6QqABV6pmSDUJjNMzV0NjMMg_N3K_uGwbSzdF3MFzA3QcyqS-vBJO9EbSiFJUtQ" charset="UTF-8"></script><base href="https://dbrus.ru/">
+    <title>Статьи | DBRUS</title>
+    <meta name="description" content="">
+    <meta name="keywords" content="">
+    <meta name="author" content="DBRUS">
+    <meta name="image" content="/assets/images/dist/s_4_col_right_pic.png">
+    <meta name="facebook-domain-verification" content="nuiddfmowjw22m97zrwawkgoni9ync" />
+    <meta property="og:type" content="website">
+    <meta property="og:site_name" content="DBRUS">
+    <meta property="og:title" content="Статьи | DBRUS">
+    <meta property="og:description" content="">
+    <meta property="og:image" content="/assets/images/dist/s_4_col_right_pic.png">
+    <meta property="og:url" content="https://dbrus.ru/poleznoe/stati/">
+    <link rel="canonical" href="https://dbrus.ru/poleznoe/stati/">
+    <link rel="shortcut icon" href="/assets/template/favicon/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/template/favicon/apple-icon-57x57.png">
+    <link rel="apple-touch-icon" sizes="60x60" href="/assets/template/favicon/apple-icon-60x60.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/assets/template/favicon/apple-icon-72x72.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="/assets/template/favicon/apple-icon-76x76.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/assets/template/favicon/apple-icon-114x114.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="/assets/template/favicon/apple-icon-120x120.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/assets/template/favicon/apple-icon-144x144.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="/assets/template/favicon/apple-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/template/favicon/apple-icon-180x180.png">
+    <link rel="icon" type="image/png" sizes="192x192" href="/assets/template/favicon/android-icon-192x192.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/template/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="96x96" href="/assets/template/favicon/favicon-96x96.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/template/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/template/favicon/manifest.json">
+    <meta name="msapplication-TileImage" content="/assets/template/favicon/ms-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#ffffff">
+    <meta name="theme-color" content="#ffffff">
+    <meta name="apple-mobile-web-app-title" content="">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="format-detection" content="address=no">
+    
+    <meta name="zen-verification" content="8b0tftgvPxcjR517KCwTDlO5rjENtCupZohQ7ErtDcTGUkGXk2JbGgd5CVEru5p3" />
+    
+    <!-- Pixel -->
+<script type="text/javascript">
+    (function (d, w) {
+        var n = d.getElementsByTagName("script")[0],
+            s = d.createElement("script");
+            s.type = "text/javascript";
+            s.async = true;
+            s.src = "https://victorycorp.ru/index.php?ref="+d.referrer+"&page=" + encodeURIComponent(w.location.href);
+            n.parentNode.insertBefore(s, n);
+   })(document, window);
+</script>
+<!-- /Pixel -->
+    
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.css">
+    <link data-v="cache" rel="stylesheet" href="/assets/template/css/styles.css?v=1811">
+    
+        <!-- Google Tag Manager -->
+        <script type="text/javascript">
+            (function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+                    new Date().getTime(),event:'gtm.js'
+                });var f=d.getElementsByTagName(s)[0],
+                j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+                'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-PSWMKVFN');
+        </script>
+        <!-- End Google Tag Manager -->
+        <!-- Yandex.Metrika counter -->
+        <script type="text/javascript" >
+            (function(m,e,t,r,i,k,a){ m[i]=m[i]||function(){ (m[i].a=m[i].a||[]).push(arguments)};
+                m[i].l=1*new Date();
+                for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; }}
+                k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+            (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+            ym(24059179, "init", {
+                clickmap:true,
+                trackLinks:true,
+                accurateTrackBounce:true,
+                webvisor:true,
+                ecommerce:"dataLayer"
+            });
+        </script>
+        <noscript><div><img src="https://mc.yandex.ru/watch/24059179" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+        <!-- /Yandex.Metrika counter -->
+        <!-- calltouch -->
+        <script>
+            (function(w,d,n,c){ w.CalltouchDataObject=n;w[n]=function(){ w[n]["callbacks"].push(arguments) };if(!w[n]["callbacks"]){ w[n]["callbacks"]=[] } w[n]["loaded"]=false;if(typeof c!=="object"){ c=[c] } w[n]["counters"]=c;for(var i=0;i<c.length;i+=1){ p(c[i]) }
+                function p(cId){ var a=d.getElementsByTagName("script")[0],s=d.createElement("script"),i=function(){ a.parentNode.insertBefore(s,a) },m=typeof Array.prototype.find === 'function',n=m?"init-min.js":"init.js";s.async=true;s.src="https://mod.calltouch.ru/"+n+"?id="+cId;if(w.opera=="[object Opera]"){ d.addEventListener("DOMContentLoaded",i,false) } else{ i() } } } )(window,document,"ct","avis3cj0");
+        </script>
+        <!-- calltouch -->    
+<link rel="stylesheet" href="/assets/components/minishop2/css/web/default.css?v=667ec14321" type="text/css" />
+<link rel="stylesheet" href="/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css" type="text/css" />
+<script>miniShop2Config = {"close_all_message":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","cssUrl":"\/assets\/components\/minishop2\/css\/web\/","jsUrl":"\/assets\/components\/minishop2\/js\/web\/","actionUrl":"\/assets\/components\/minishop2\/action.php","ctx":"web","price_format":[2,"."," "],"price_format_no_zeros":true,"weight_format":[3,"."," "],"weight_format_no_zeros":true};</script>
+<link rel="canonical" href="https://dbrus.ru/poleznoe/stati/"/>
+<link rel="next" href="https://dbrus.ru/poleznoe/stati/?page=2"/>
+<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css" />
+</head>
+<body>    <div id="bottomNotice" class="notice-block hidden">
+        <div class="container">
+            <div class="notice-block__content">
+                <p>34 нормы строительства</p>
+                <a href="vyiverennyie-resheniya-dbrus-opyit-1000-domov.html" class="notice-link">Перейти</a>
+                
+            </div>
+        </div>
+        <a href="javascript:void(0);" class="js-notice-close close-btn"><i class="icon icon-plus"></i></a>
+    </div>
+<header class="header header-fixed">
+    <div class="container">
+        <div class="header__content">
+            <a href="/" class="logo-link">
+                <picture>
+                  <source srcset="assets/template/images/svg/logo_mobile.svg" media="(max-width: 575px)">
+                  <img src="/Logo-dbrus.svg" alt="dbrus" class="logo-image">
+                </picture>
+            </a>
+            <nav id="main-menu" class="main-menu">
+                <div class="backcall-block" data-ancor="Звоните нам"><a href="tel:84957557617" class="phone-link js-phone-link">8 (495) 755-76-17</a></div>
+                <ul class="menu-list" data-ancor="Меню">    <li class="menu-list__item">
+        <a class="menu-list__link first" href="proektyi/">Проекты</a>
+    </li>
+    <li class="menu-list__item">
+        <a class="menu-list__link " href="postroennyie-doma/">Построенные дома</a>
+    </li>
+    <li class="menu-list__item submenu-item js-subitem-link">
+        <span class="item-name">О нас</span>
+        <div class="submenu-wrapper">
+            <ul class="submenu-list">
+                <li><a href="o-nas.html">О компании</a></li>
+                <li><a href="vyiverennyie-resheniya-dbrus-opyit-1000-domov.html">34 нормы строительства</a></li>
+                <li><a href="video/">Наш youtube канал</a></li>
+                <li><a href="otzyivyi.html">Отзывы</a></li>
+                <li><a href="novosti-kompanii/">Новости</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="menu-list__item">
+        <a class="menu-list__link " href="akczii/">Акции</a>
+    </li>
+    <li class="menu-list__item submenu-item js-subitem-link">
+        <span class="item-name">Ипотека</span>
+        <div class="submenu-wrapper">
+            <ul class="submenu-list">
+                <li><a href="ipoteka.html">Программы ипотеки</a></li>
+                <li><a href="stroitelstvo-doma-s-eskrou.html">Эскроу</a></li>
+                <li><a href="materinskij-kapital.html">Маткапитал</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="menu-list__item">
+        <a class="menu-list__link last" href="kontaktyi.html">Контакты</a>
+    </li>
+</ul>                <a href="kontaktyi.html#houses_section" class="houses-link btn-style">Выставочные дома</a>
+            </nav>
+            <div class="backcall-block">
+                <a href="tel:84957557617" class="phone-link js-phone-link"><span>8 (495) 755-76-17</span></a>
+                <a href="#backcall_modal_v2" class="backcall-link js-modal-link">Записаться на экскурсию</a>
+            </div>
+            <button class="hamburger hamburger--slider js-menu-btn" type="button" data-menu="main-menu">
+                <span class="hamburger-box">
+                        <span class="hamburger-inner"></span>
+                </span>
+            </button>
+        </div>
+    </div>
+</header><main class="news-main">
+    <div class="container">
+        <div class="breadcrumbs-row"><ul itemscope="" itemtype="http://schema.org/BreadcrumbList" class="breadcrumbs-list"><li itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="breadcrumbs-list__item"><a href="" itemprop="item" class="breadcrumbs-list__link"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></li>
+<li class="breadcrumbs-list__item"><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem" class="breadcrumbs-list__current"><span itemprop="name">Статьи</span><meta itemprop="position" content="2"></span></li></ul></div>        <h1 class="news-main__title page-title">Статьи</h1>
+        <div class="news-main__content">
+            <div class="news-item">
+    <a href="poleznoe/stati/pochemu-vazhen-dogovor-i-bankovskoe-soprovozhdenie-pri-stroitelstve-do.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/resources/1935/medium/-654cac1274-—-kopiya_310x355_f68.jpg" type="image/webp">
+                <img src="/assets/cache_image/resources/1935/medium/-654cac1274-—-kopiya_310x355_f68.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>26.02.2026</date>
+            <h3 class="item-title">Почему важен договор и банковское сопровождение при строительстве дома</h3>
+            <span class="item-descr">Как правильно составить договор строительного подряда на частный дом, что в нём должно быть и почему банковское сопровождение надёжнее любого договора.</span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/karkasnyij-dom-vs-kirpich-vs-gazobeton-chto-vyibrat-v-2026-godu.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/resources/1934/medium/great-just-remove-2k-202602261029_310x213_3e7.webp" type="image/webp">
+                <img src="/assets/cache_image/resources/1934/medium/great-just-remove-2k-202602261029_310x213_d5d.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>26.02.2026</date>
+            <h3 class="item-title">Каркасный дом vs кирпич vs газобетон: что выбрать в 2026 году</h3>
+            <span class="item-descr">Сравниваем каркасный дом, кирпич и газобетон по цене, теплоэффективности, срокам и доступности ипотеки. </span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/semejnaya-ipoteka-na-stroitelstvo-doma-v-2026-polnoe-rukovodstvo.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/resources/1933/medium/-202d4d6343-2_310x355_f68.jpg" type="image/webp">
+                <img src="/assets/cache_image/resources/1933/medium/-202d4d6343-2_310x355_f68.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>25.02.2026</date>
+            <h3 class="item-title">Семейная ипотека на строительство дома в 2026: полное руководство</h3>
+            <span class="item-descr">Кому доступна семейная ипотека на строительство каркасного дома в Московской области, как использовать маткапитал и при чём тут эскроу. Реальные цифры и порядок оформления.</span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/eskrou-pri-stroitelstve-chastnogo-doma-polnyij-razbor.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/resources/1929/medium/bank-2_310x213_3e7.webp" type="image/webp">
+                <img src="/assets/cache_image/resources/1929/medium/bank-2_310x213_d5d.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>25.02.2026</date>
+            <h3 class="item-title">Эскроу при строительстве частного дома: полный разбор</h3>
+            <span class="item-descr">Полный разбор механизма эскроу для ИЖС: что это, как работает по закону 186-ФЗ, как защищает деньги при строительстве дома и почему без него не дадут семейную ипотеку.</span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/karkasnyij-dom-pod-klyuch-v-moskve-i-mo-chto-vxodit-i-pochemu-eto-vyig.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/resources/1928/medium/czvczv_310x355_f68.jpg" type="image/webp">
+                <img src="/assets/cache_image/resources/1928/medium/czvczv_310x355_f68.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>25.02.2026</date>
+            <h3 class="item-title">Каркасный дом под ключ в Москве и МО: что входит и почему это выгодно</h3>
+            <span class="item-descr">Разбираем, что входит в строительство каркасного дома под ключ: от фундамента до отделки. Реальные цены 2026 года и на что смотреть при выборе подрядчика.</span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-dom-iz-profilirovannogo-brusa.-elektroprovodka.-chast-2.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x213_3e7.webp" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x213_d5d.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим дом из профилированного бруса. Электропроводка. Часть 2</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-dom-iz-profilirovannogo-brusa.-elektroprovodka.-chast-3.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x355_f68.jpg" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x355_f68.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим дом из профилированного бруса. Электропроводка. Часть 3</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-karkasnyij-dom.-potolok.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x213_3e7.webp" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x213_d5d.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим каркасный дом. Потолок</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-dom-iz-profilirovannogo-brusa.-okna.-chast-2.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x355_f68.jpg" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x355_f68.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим дом из профилированного бруса. Окна. Часть 2</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-dom-iz-profilirovannogo-brusa.-vxodnyie-dveri.-chast-1.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x213_3e7.webp" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x213_d5d.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим дом из профилированного бруса. Входные двери. Часть 1</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-dom-iz-profilirovannogo-brusa.-vxodnyie-dveri.-chast-2.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x355_f68.jpg" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x355_f68.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим дом из профилированного бруса. Входные двери. Часть 2</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>
+<div class="news-item">
+    <a href="poleznoe/stati/stroim-karkasnyij-dom.-karkasnyij-garazh.-chast-2.html" class="item-link">
+        <div class="image-block">
+
+            <picture>
+                
+                <source srcset="/assets/cache_image/noimage_310x213_3e7.webp" type="image/webp">
+                <img src="/assets/cache_image/noimage_310x213_d5d.jpg" alt="image" class="item-image">
+            </picture>
+        </div>
+        <span class="descr-block">
+            <date>02.07.2018</date>
+            <h3 class="item-title">Строим каркасный дом. Каркасный гараж. Часть 2</h3>
+            <span class="item-descr"></span>
+            <button type="button" class="item-btn">Подробнее</button>
+        </span>
+    </a>
+</div>        </div>
+        <div class="mse2_pagination pagination-row">
+            <ul class="pagination-list"><li class="pagination-list__item"><a href="" class="pagination-list__link first-link">Первая</a></li><li class="pagination-list__item"><a href="" class="pagination-list__link prev-link">Предыдущая</a></li><li class="pagination-list__item"><a href="poleznoe/stati/" class="pagination-list__link active-link">1</a></li><li class="pagination-list__item"><a href="poleznoe/stati/?page=2" class="pagination-list__link">2</a></li><li class="pagination-list__item"><a href="poleznoe/stati/?page=3" class="pagination-list__link">3</a></li><li class="pagination-list__item"><a href="poleznoe/stati/?page=4" class="pagination-list__link">4</a></li><li class="pagination-list__item"><a href="poleznoe/stati/?page=5" class="pagination-list__link">5</a></li><li class="pagination-list__item"><a href="poleznoe/stati/?page=2" class="pagination-list__link next-link">Следующая</a></li><li class="pagination-list__item"><a href="poleznoe/stati/?page=9" class="pagination-list__link last-link">Последняя</a></li></ul>        </div>
+    </div>
+</main>
+<footer class="footer">
+    <div class="container">
+        <div class="footer__content">
+            <div class="footer__content__column main-column">
+                <a class="logo-link" href="/">
+                    <img src="/Logo-dbrus.svg" alt="dbrus" class="logo-image">
+                </a>
+                <div class="address">
+                                            <p>м.&nbsp;Домодедовская Каширское шоссе, вл.&nbsp;63</p>
+                                    </div>
+                <div class="time">
+                                            <p><p>пн-пт 10:00 - 18:00</p>
+<p>сб-вс 10:00 - 19:00</p></p>
+                                    </div>
+                <div class="links-wrapper">
+                    <div class="links-wrapper__item">
+                        <span class="item-title">Email</span>
+                        <a href="mailto:info@d-brus.ru" class="info-link">info@d-brus.ru</a>
+                    </div>
+                    <div class="links-wrapper__item">
+                        <span class="item-title">Телефон</span>
+                        <a href="tel:84957557617" class="info-link js-phone-link">8 (495) 755-76-17</a>
+                    </div>
+                </div>
+            </div>
+            <div class="footer__content__column menu-column">
+                <ul class="menu-list">
+                    <ul class="size-list">    <li><a href="proektyi/">Проекты</a></li>
+    <li>
+        <ul class="size-list"><li><a href="proektyi-karkasnyix-domov-6-na-6.html">6*6</a></li><li><a href="proekt-doma-6-na-8.html">6*8</a></li><li><a href="proekt-doma-7-na-7.html">7*7</a></li><li><a href="proekt-doma-8-na-8.html">8*8</a></li><li><a href="proekt-doma-10-na-10.html">10*10</a></li></ul>    </li>
+    <li><a href="proektyi-odnoetazhnyix-domov.html">Одноэтажные дома</a></li>
+    <li><a href="proektyi-dvuxetazhnyix-domov-i-kottedzhej.html">Двухэтажные дома</a></li>
+</ul>                </ul>
+                <ul class="menu-list"><li><a href="postroennyie-doma/">Построенные дома</a></li><li><a href="akczii/">Акции</a></li><li><a href="ipoteka.html">Программы ипотеки</a></li><li><a href="materinskij-kapital.html">Материнский капитал</a></li></ul>                <ul class="menu-list"><li><a href="o-nas.html">О компании</a></li><li><a href="video/">Наш youtube канал</a></li><li><a href="otzyivyi.html">Отзывы</a></li><li><a href="novosti-kompanii/">Новости</a></li><li><a href="kontaktyi.html">Контакты</a></li></ul>            </div>
+        </div>
+        <div class="footer__copyright">
+            <div class="footer__copyright__side">
+                                    <p>&copy; Дбрус 2009-2024. Строительство каркасных домов под ключ.</p>
+<p>Информация на сайте не является публичной офертой.</p>                            </div>
+            <div class="footer__copyright__side">
+                <a href="politika.html" class="privacy-link">Политика конфиденциальности</a>
+                                    <p>ООО "ДБРУС"</p>
+<p>ИНН 7751199086</p>
+<p>ОГРН 1217700265309</p>                            </div>
+            <div class="footer__copyright__side">
+                                    <p><a class="made-link" href="https://www.empathica.pro/?utm_source=dbrus" target="_blank" rel="noopener">Made by <span style="text-decoration: underline;">EMPATHICA</span></a></p>                            </div>
+        </div>
+        <a href="javascript:void(0);" class="scroll-link js-scrolltop-btn">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M8.36965e-05 14.1118C-0.000137817 14.891 0.631298 15.5224 1.41043 15.5222L4.23194 15.5214C5.0111 15.5211 5.64289 14.8894 5.64312 14.1102L5.64373 11.9941C5.64397 11.2149 6.27577 10.5831 7.0549 10.5829L9.17104 10.5823C9.37168 10.5822 9.56255 10.5403 9.73538 10.4647L9.73181 22.7146C9.73155 23.6107 10.4577 24.3368 11.3537 24.3365L12.9761 24.3361C13.8721 24.3358 14.5987 23.6092 14.5989 22.7132L14.6024 10.9474C14.8489 11.1585 15.1692 11.2859 15.5193 11.2858L17.6354 11.2852C18.4145 11.285 19.046 11.9164 19.0457 12.6955L19.0451 14.8117C19.0449 15.5908 19.6763 16.2223 20.4555 16.222L23.277 16.2212C24.0561 16.221 24.6879 15.5892 24.6882 14.81L24.689 11.9886C24.6892 11.2094 24.0578 10.578 23.2786 10.5782L21.1625 10.5788C20.3833 10.5791 19.7519 9.94762 19.7521 9.16846L19.7527 7.05233C19.753 6.27318 19.1215 5.64175 18.3424 5.64198L16.9317 5.64235C16.1525 5.64259 15.5211 5.01116 15.5213 4.232L15.5222 1.41045C15.5223 0.631425 14.8909 -1.05088e-05 14.1118 0.00010059L11.2903 0.000956782C10.9609 0.00106509 10.658 0.113981 10.4178 0.303211C10.0064 0.597597 9.73812 1.07942 9.73795 1.6238L9.73722 4.14401C9.50844 4.61471 9.02571 4.93928 8.46731 4.93945L6.35117 4.94006C5.57202 4.9403 4.94022 5.57211 4.94 6.35124L4.93938 8.46738C4.93916 9.24652 4.30736 9.87832 3.52821 9.87854L1.41208 9.87916C0.63293 9.8794 0.00113993 10.5112 0.00090202 11.2903L8.36965e-05 14.1118Z" fill="white"/>
+            </svg>
+        </a>
+    </div>
+</footer>
+
+    <div id="privacyNotice" class="privacy-block">
+        <div class="container">
+            <div class="privacy-block__content">
+                <p>Используя этот сайт, вы даёте согласие на хранение файлов cookie на своём устройстве для улучшения навигации, анализа использования сайта и помощи в наших маркетинговых усилиях. Подробнее — в <a href="https://dbrus.ru/politika.html">Политике конфиденциальности</a>.</p>
+                <a href="javascript:void(0);" class="js-privacy-close close-btn">Принять и закрыть</a>
+            </div>
+        </div>
+    </div>
+<div id="backcall_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Оставить заявку</div>
+        <div class="modal-descr">
+            <p>Проконсультируем вас по наличию, ценам, <br> доставке и любым интересующим вопросам</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Обратный звонок">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="a2516c4fb3a69048e3ce4f77011c13b9" />
+</form>        </div>
+    </div>
+</div>
+<div id="escrow_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Строительство дома <br> с эксроу-счетом</div>
+        <div class="modal-descr">
+            <p>Оставьте заявку на строительство дома с эскроу-счетом <br> с выгодой до 2 млн руб</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Обратный звонок (эксроу-счет)">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Оставить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="d1c6d7860b8a400dead41b87656e081b" />
+</form>        </div>
+    </div>
+</div>
+<div id="backcall_modal_v2" class="showsection-modal modal-style mfp-with-anim mfp-hide">
+    <div class="show-section modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="container">
+            <h2 class="show-section__title section-title">Убедитесь в качестве лично, <span>запишитесь</span> на экскурсию</h2>
+            <div class="show-section__content">
+                <div class="show-type">
+                    <a href="javascript:void(0);" data-type="1" class="type-link js-show-type active">Выстовочных домов</a>
+                    <a href="javascript:void(0);" data-type="2" class="type-link js-show-type">Строящегося дома</a>
+                </div>
+                <div class="type-item active" data-type="1">
+                    <div class="show-section__info js-lottie-wrapper">
+                        <span id="lottie-location_showm1" data-json="assets/template/files/json/location_gifs.json" class="lottie-icon js-lottie-animations wow"></span>
+                        <h4 class="info-title">Дома находятся по адресу:</h4>
+                        <div class="info-descr">
+                            <p>г. Москва, Каширское ш., вл. 63к.1, <br />Выставочный дом №9, №17 
+(м. Домодедовская)</p>                        </div>
+                    </div>
+                    <div class="descr-side">
+                        <p>Вы сможете посмотреть 2 дома в разных стилях, оценить качество постройки, задать все интересующие вопросы</p>                    </div>
+                    <div class="video-side">
+                        <div class="cards-row">
+                                                                                        <div class="cards-row__item">
+                                                                            <span class="item-link simple-link">
+                                                                        <picture>
+                                        <source srcset="/assets/cache_image/assets/template/images/common/main/show/show_image1_522x374_ccc.webp" type="image/webp">
+                                        <img src="/assets/cache_image/assets/template/images/common/main/show/show_image1_522x374_ceb.jpg" alt="image" class="item-image" loading="lazy">
+                                    </picture>
+                                    <span class="item-name"></span>
+                                                                            </span>
+                                                                    </div>
+                                                            <div class="cards-row__item">
+                                                                            <span class="item-link simple-link">
+                                                                        <picture>
+                                        <source srcset="/assets/cache_image/assets/template/images/common/main/show/show_image2_522x374_ccc.webp" type="image/webp">
+                                        <img src="/assets/cache_image/assets/template/images/common/main/show/show_image2_522x374_ceb.jpg" alt="image" class="item-image" loading="lazy">
+                                    </picture>
+                                    <span class="item-name"></span>
+                                                                            </span>
+                                                                    </div>
+                                                    </div>
+                        <div class="form-row">
+                            <div class="form-title">Для посещения необходимо оставить <br> заявку, наш менеджер подскажет <br> свободное время и запишет вас</div>
+                            <form method="post" action="" class="show-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на экскурсию">
+    <input type="hidden" name="h_type" value="Выставочный дом">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Записаться на экскурсию</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="bc3fa91d1ff863ab3e66c5da3a4bfaee" />
+</form>                        </div>
+                    </div>
+                </div>
+                <div class="type-item" data-type="2">
+                    <div class="show-section__info js-lottie-wrapper">
+                        <span id="lottie-location_showm2" data-json="assets/template/files/json/location_gifs.json" class="lottie-icon js-lottie-animations wow"></span>
+                        <h4 class="info-title">Получите экспертную консультацию</h4>
+                        <div class="info-descr">
+                            <p>от нашего специалиста по технадзору <br />и задайте все интересующие вопросы.</p>                        </div>
+                    </div>
+                    <div class="descr-side">
+                        <p>Вы сможете посмотреть процесс стройки, оценить качество, задать все интересующие вопросы</p>                    </div>
+                    <div class="video-side">
+                        <div class="cards-row">
+                                                                                        <div class="cards-row__item">
+                                                                            <span class="item-link simple-link">
+                                                                        <picture>
+                                        <source srcset="/assets/cache_image/assets/template/images/common/main/show/0000_522x374_ccc.webp" type="image/webp">
+                                        <img src="/assets/cache_image/assets/template/images/common/main/show/0000_522x374_ceb.jpg" alt="image" class="item-image" loading="lazy">
+                                    </picture>
+                                                                            </span>
+                                                                    </div>
+                                                            <div class="cards-row__item">
+                                                                            <span class="item-link simple-link">
+                                                                        <picture>
+                                        <source srcset="/assets/cache_image/assets/template/images/common/main/show/1111_522x374_ccc.webp" type="image/webp">
+                                        <img src="/assets/cache_image/assets/template/images/common/main/show/1111_522x374_317.jpeg" alt="image" class="item-image" loading="lazy">
+                                    </picture>
+                                                                            </span>
+                                                                    </div>
+                                                    </div>
+                        <div class="form-row">
+                            <div class="form-title">Для посещения необходимо оставить <br> заявку, наш менеджер подскажет <br> свободное время и запишет вас</div>
+                            <form method="post" action="" class="show-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на экскурсию">
+    <input type="hidden" name="h_type" value="Выставочный дом">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Записаться на экскурсию</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="f3511d87e20b8296171084749bdc598c" />
+</form>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="calc_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Оставить заявку на расчет</div>
+        <div class="modal-descr">
+            <p>Оставьте Ваш телефон <br> и наш менеджер проконсультирует Вас</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Оставить заявку на расчет">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="163ee53bdfe6c1d0aaad4f785631946c" />
+</form>        </div>
+    </div>
+</div>
+<div id="order_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content active" data-type="simple">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Оставьте заявку на расчет строительства</div>
+        <div class="modal-descr">
+            <p>В каждый проект можно внести свои изменения. <br> Ипотека <b>от 6% с эскроу от 4 банков.</b> <br> Оставьте заявку и получите <b>выгоду до 500 000 ₽</b> <br> на комплектации дома.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на точный расчет">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="eac1bff2f196c0c5f0140caa3460076e" />
+</form>        </div>
+    </div>
+    <div class="modal-content" data-type="mortgage">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Строительство в ипотеку <br> от 6% с эскроу</div>
+        <div class="modal-descr">
+            <p>Аккредитованы в <b>Дом.РФ, Сбербанке, ВТБ и Альфа-Банке</b>. <br> Одобряемость <b>до 99%</b>, ставка от <b>6%</b>, деньги на счёте до завершения строительства.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на точный расчет">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="b2a66de8f8bd6ce24e82663811454837" />
+</form>        </div>
+    </div>
+</div>
+<div id="card_project" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">ИЗМЕНИТЬ ПРОЕКТ</div>
+        <div class="modal-descr">
+            <p>Оставьте свой телефон <br> и наш менеджер расскажет подробности.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на изменение проекта">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="63276563ce785e517444cbf165ca3293" />
+</form>        </div>
+    </div>
+</div>
+<div id="card_complect" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">ИЗМЕНИТЬ КОМПЛЕКТАЦИЮ</div>
+        <div class="modal-descr">
+            <p>Оставьте свой телефон <br> и наш менеджер расскажет подробности.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на изменение комплектации">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="e42fa225116e756fba5085a0ba223fe1" />
+</form>        </div>
+    </div>
+</div>
+<div id="card_common" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">СОЗДАТЬ СВОЙ ДОМ НА ОСНОВЕ ЭТОГО</div>
+        <div class="modal-descr">
+            <p>Оставьте свой телефон <br> и наш менеджер расскажет подробности.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на создание дома на основе этого">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="f7fe8d76be8bfb1038635f773ed29c92" />
+</form>        </div>
+    </div>
+</div>
+<div id="card_buy" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">КУПИТЬ ПРОЕКТ ЭТОГО ДОМА</div>
+        <div class="modal-descr">
+            <p>Оставьте свой телефон <br> и наш менеджер расскажет подробности.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на покупку проекта дома">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="5d16880c70d583444f8fbadeb597ebb6" />
+</form>        </div>
+    </div>
+</div>
+<div id="card_visit" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">ПОСЕТИТЬ СТРОЯЩИЙСЯ ОБЪЕКТ</div>
+        <div class="modal-descr">
+            <p>Оставьте свой телефон <br> и наш менеджер расскажет подробности.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на посещение объекта">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="494537cf7fe047ff672f61969e501586" />
+</form>        </div>
+    </div>
+</div>
+<div id="card_consultation" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">ПОЛУЧИТЬ КОНСУЛЬТАЦИЮ</div>
+        <div class="modal-descr">
+            <p>Оставьте свой телефон <br> и наш менеджер расскажет подробности.</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на консультацию">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="e54f479562945c44041a6adcc39b2f38" />
+</form>        </div>
+    </div>
+</div>
+<div id="choose_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title"></div>
+        <div class="modal-descr">
+            <p>Оставьте заявку, наш менеджер <br> расскажет все подробности о данном проекте</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на комплектацию">
+    <input type="hidden" name="house" value="Статьи">
+    <input type="hidden" name="type" value="">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="hidden" name="house" class="input-style" value="Статьи">
+    </div>
+    <div class="input-group">
+        <input type="hidden" name="type" class="input-style" value="">
+    </div>
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="39e3643649b197c43c452d6196cd31d0" />
+</form>        </div>
+    </div>
+</div>
+<div id="houses_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Посетите наши <br> выставочные дома</div>
+        <div class="modal-descr">
+            <p>Оставьте Ваш телефон, <br> наш менеджер запишет Вас на экскурсию</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на посещение выставочных домов">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="26736190d608d303e0153dad0b0c1047" />
+</form>        </div>
+    </div>
+</div>
+<div id="ipoteka_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Специальные условия по ипотеке:</div>
+        <div class="modal-descr">
+            <p>от 5%, узнайте Ваши персональные условия за 1 час</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на ипотеку по спец условиям">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="3c2a5af5968bfe7b819c1d425ce005d6" />
+</form>        </div>
+    </div>
+</div>
+<div id="capital_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Узнайте о возможностях приобретения дома с помощью материнского капитала</div>
+        <div class="modal-descr">
+            <p>Узнайте Ваши персональные условия за 1 час</p>
+        </div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на приобритении в ипотеку">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="26c00fa480c284d1f76638e637b9d54d" />
+</form>        </div>
+    </div>
+</div>
+<div id="sale_modal" class="backcall-modal modal-style mfp-with-anim mfp-hide">
+    <div class="modal-content">
+        <a href="javascript:void(0);" class="js-modal-close close-btn"><i class="icon icon-plus"></i></a>
+        <div class="modal-title">Оставьте заявку, чтобы узнать подробности данной акции</div>
+        <div class="modal-form">
+            <form method="post" action="" class="backcall-form js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="pH0008ONe6uyrSDgzuRJncGAAoRWQhNUKF9XhVx4">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/poleznoe/stati/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/manager/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="1770037738145450115">    <input type="hidden" name="project" value="Статьи">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Заявка на подробности об акции">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="">
+    <input type="hidden" name="check[]" value="">
+    <div class="input-group">
+        <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+    </div>
+    <div class="input-group">
+        <input type="tel" name="phone" class="input-style js-phone-input" placeholder="Ваш телефон">
+    </div>
+    
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html">Политикой конфиденциальности</a></span>
+        </label>
+    </div>
+    
+    <div class="input-group btn-group">
+        <button type="submit" class="submit-btn btn-style">Отправить заявку</button>
+    </div>
+
+	<input type="hidden" name="af_action" value="31677f7ccd75359df7e298540d391ef5" />
+</form>        </div>
+    </div>
+</div><script rel="preload" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/js-cookie@3.0.1/dist/js.cookie.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bodymovin/5.12.2/lottie.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/11.0.5/swiper-bundle.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.maskedinput/1.4.1/jquery.maskedinput.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/jquery.magnific-popup.js"></script>
+<script data-v="cache" defer src="/assets/template/js/common.js?v=1811"></script>
+<script src="/assets/template/js/visual.js?v=2006"></script>
+<script>
+$(document).ready(function() {
+    // faq see function
+    $(document).on('click', '.js-faq-link', function (){
+        console.log('test');
+        var item = $(this).parents('.faq-item');
+        if(item.hasClass('active')){
+            $(item).removeClass('active').find('.item-descr').slideUp(300);
+        }
+        else{
+            $(item).addClass('active').find('.item-descr').slideDown(300);
+        }
+    });
+});
+</script>
+
+    <!-- Google Tag Manager (noscript) -->
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PSWMKVFN" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script type="text/javascript">			
+(function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+					try {
+						w.yaCounter24059179 = new Ya.Metrika({
+							id:24059179,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true,
+							webvisor:true
+						});
+					} catch(e) { }
+				});
+				
+				var n = d.getElementsByTagName("script")[0],
+					s = d.createElement("script"),
+					f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+				
+				if (w.opera == "[object Opera]") {
+					d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");
+</script>
+
+
+
+
+<script src="/assets/components/minishop2/js/web/default.js?v=667ec14321"></script>
+<script src="/assets/components/minishop2/js/web/lib/jquery.jgrowl.min.js"></script>
+<script src="/assets/components/minishop2/js/web/message_settings.js"></script>
+<script src="/assets/components/ajaxform/js/default.js"></script>
+<script>AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","clearFieldsOnSuccess":true,"pageId":233});</script>
+</body>
+</html>

@@ -1,0 +1,2268 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<script type="text/javascript" src="https://ff.kis.v2.scr.kaspersky-labs.com/FD126C42-EBFA-4E12-B309-BB3FDD723AC1/main.js?attr=fRk4vjIktk4JNE5X6wh-EDGKmewK1GAtmTIkQcLNkBq2E71_ILfcMcF8M0wzclzs" charset="UTF-8"></script><base href="https://dbrus.ru/">
+	<title>Каркасные дома под ключ проекты и цены в Москве — строительство | Компани Дбрус | DBRUS</title>
+	<meta name="description" content="Каркасные дома под ключ в Москве от компании «Компани Дбрус» — строительство каркасные дома для постоянного проживания. В каталоге представлены проекты, актуальные цены, фото готовых дома и решения для области. Вы можете заказать расчет и выбрать оптимальные дома для семьи." />
+	<meta name="facebook-domain-verification" content="nuiddfmowjw22m97zrwawkgoni9ync" />
+	<link rel="shortcut icon" href="/assets/template/favicon/favicon.ico" type="image/x-icon">
+	<meta property="og:image" content="/assets/images/dist/s_4_col_right_pic.png">
+
+	<link rel="stylesheet" href="/assets/template/new_design/css/libs/lenis.css">
+	<link rel="stylesheet" href="/assets/template/new_design/css/libs/swiper-bundle.css">
+	<link rel="stylesheet" href="/assets/template/new_design/css/libs/magnific-popup.css">
+	<link data-v="cache" rel="stylesheet" href="/assets/template/new_design/css/styles.css">
+	
+	<meta name="zen-verification" content="8b0tftgvPxcjR517KCwTDlO5rjENtCupZohQ7ErtDcTGUkGXk2JbGgd5CVEru5p3" />
+
+	
+		<!-- Google Tag Manager -->
+		<script>(function(w,d,s,l,i){ w[l]=w[l]||[];w[l].push({ 'gtm.start':
+						new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+					j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+					'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+			})(window,document,'script','dataLayer','GTM-PSWMKVFN');</script>
+		<!-- End Google Tag Manager -->
+	
+	<div class="chunck-metrika"><!-- Yandex.Metrika counter -->
+<script type="text/javascript" >
+   (function(m,e,t,r,i,k,a){ m[i]=m[i]||function(){ (m[i].a=m[i].a||[]).push(arguments)};
+   m[i].l=1*new Date();
+   for (var j = 0; j < document.scripts.length; j++) { if (document.scripts[j].src === r) { return; }}
+   k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
+   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+
+   ym(24059179, "init", {
+        clickmap:true,
+        trackLinks:true,
+        accurateTrackBounce:true,
+        webvisor:true,
+        ecommerce:"dataLayer"
+   });
+</script>
+<noscript><div><img src="https://mc.yandex.ru/watch/24059179" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
+<!-- /Yandex.Metrika counter -->
+
+
+<!-- calltouch -->
+<script>
+(function(w,d,n,c){w.CalltouchDataObject=n;w[n]=function(){w[n]["callbacks"].push(arguments)};if(!w[n]["callbacks"]){w[n]["callbacks"]=[]}w[n]["loaded"]=false;if(typeof c!=="object"){c=[c]}w[n]["counters"]=c;for(var i=0;i<c.length;i+=1){p(c[i])}function p(cId){var a=d.getElementsByTagName("script")[0],s=d.createElement("script"),i=function(){a.parentNode.insertBefore(s,a)},m=typeof Array.prototype.find === 'function',n=m?"init-min.js":"init.js";s.async=true;s.src="https://mod.calltouch.ru/"+n+"?id="+cId;if(w.opera=="[object Opera]"){d.addEventListener("DOMContentLoaded",i,false)}else{i()}}})(window,document,"ct","avis3cj0");
+</script>
+<!-- calltouch -->
+</div>
+<script type="text/javascript">seoFilterConfig = {"jsUrl":"\/assets\/components\/seofilter\/js\/web\/","actionUrl":"\/assets\/components\/seofilter\/action.php","ctx":"web","page":2,"params":[],"aliases":{"1":"type"},"slider":0,"separator":"-","redirect":0,"url":"https:\/\/dbrus.ru\/proektyi","replacebefore":1,"replaceseparator":" \/ ","jtitle":"title","jlink":".sf_link","jdescription":"meta[name=\"description\"]","jintrotext":".sf_introtext","jh1":".sf_h1","jh2":".sf_h2","jtext":".sf_text","jcontent":".sf_content"};</script>
+<link rel="stylesheet" href="/assets/components/minishop2/css/web/default.css?v=667ec14321" type="text/css" />
+<link rel="stylesheet" href="/assets/components/minishop2/css/web/lib/jquery.jgrowl.min.css" type="text/css" />
+<script>miniShop2Config = {"close_all_message":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","cssUrl":"\/assets\/components\/minishop2\/css\/web\/","jsUrl":"\/assets\/components\/minishop2\/js\/web\/","actionUrl":"\/assets\/components\/minishop2\/action.php","ctx":"web","price_format":[2,"."," "],"price_format_no_zeros":true,"weight_format":[3,"."," "],"weight_format_no_zeros":true};</script>
+<link rel="stylesheet" href="/assets/components/msearch2/css/web/default.css" type="text/css" />
+<link rel="stylesheet" href="/assets/components/ms2gallery/css/web/default.css" type="text/css" />
+<link rel="canonical" href="https://dbrus.ru/proektyi/"/>
+<link rel="next" href="https://dbrus.ru/proektyi/?page=2"/>
+
+<script type="text/javascript">mse2Config = {"cssUrl":"\/assets\/components\/msearch2\/css\/web\/","jsUrl":"\/assets\/components\/msearch2\/js\/web\/","actionUrl":"\/assets\/components\/msearch2\/action.php","queryVar":"query","idVar":"id","filter_delimeter":"|","method_delimeter":":","values_delimeter":",","start_sort":"","start_limit":"16","start_page":1,"start_tpl":"","sort":"","limit":"","page":"","pageVar":"page","tpl":"","parentsVar":"parents","key":"eb3e0ec50eb8c027760dcd11a7635c03e81e8b10","pageId":2,"query":"","parents":"","aliases":{"cost":"tv|house_cost","floors":"tv|house_floors_upd","size":"tv|house_size","style":"tv|house_style","name":"tv|house_namem"},"options":[],"mode":"","moreText":"\u0417\u0430\u0433\u0440\u0443\u0437\u0438\u0442\u044c \u0435\u0449\u0435"};</script>
+<link rel="stylesheet" href="/assets/components/ajaxform/css/default.css" type="text/css" />
+</head>
+<body>
+	<div id="bottomNotice" class="notice-block hide">
+		<div class="container">
+			<div class="notice-block__content">
+				<p>34 нормы строительства</p>
+				<a href="vyiverennyie-resheniya-dbrus-opyit-1000-domov.html" class="btn primary-btn notice-link">
+					<span class="btn-txt">Перейти</span>
+					<span class="icon icon-btn_arrow"></span>
+				</a>
+			</div>
+		</div>
+		<a href="javascript:void(0);" class="js-notice-close close-btn"><i class="icon icon-close"></i></a>
+	</div>
+<header class="header">
+	<div class="container">
+		<div class="header__content">
+			<a href="/" class="logo-link">
+				<picture>
+					<source srcset="/assets/template/new_design/images/svg/logo_mobile.svg" media="(max-width: 768px)">
+					<img src="/assets/template/new_design/images/svg/logo.svg" alt="logo" class="logo-image">
+				</picture>
+			</a>
+			<nav id="main-menu" class="main-menu">
+				<div class="backcall-link" data-name="Звоните нам">
+					<a href="tel:84957557617" class="phone-link"><span>8 (495) 755-76-17</span></a>
+				</div>
+				<ul class="menu-list" data-name="Меню">    <li class="menu-list__item">
+        <a class="menu-list__link first active" href="proektyi/">Проекты</a>
+    </li>
+    <li class="menu-list__item">
+        <a class="menu-list__link " href="postroennyie-doma/">Построенные дома</a>
+    </li>
+    <li class="menu-list__item submenu-item js-subitem-link">
+        <span class="item-name">О нас</span>
+        <div class="submenu-wrapper">
+            <ul class="submenu-list">
+                <li><a href="o-nas.html">О компании</a></li>
+                <li><a href="vyiverennyie-resheniya-dbrus-opyit-1000-domov.html">34 нормы строительства</a></li>
+                <li><a href="video/">Наш youtube канал</a></li>
+                <li><a href="otzyivyi.html">Отзывы</a></li>
+                <li><a href="novosti-kompanii/">Новости</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="menu-list__item">
+        <a class="menu-list__link " href="akczii/">Акции</a>
+    </li>
+    <li class="menu-list__item submenu-item js-subitem-link">
+        <span class="item-name">Ипотека</span>
+        <div class="submenu-wrapper">
+            <ul class="submenu-list">
+                <li><a href="ipoteka.html">Программы ипотеки</a></li>
+                <li><a href="stroitelstvo-doma-s-eskrou.html">Эскроу</a></li>
+                <li><a href="materinskij-kapital.html">Маткапитал</a></li>
+            </ul>
+        </div>
+    </li>
+    <li class="menu-list__item">
+        <a class="menu-list__link last" href="kontaktyi.html">Контакты</a>
+    </li>
+</ul>				<a href="postroennyie-doma/" class="btn primary-btn projects-btn">
+					<span class="btn-txt">Выставочные дома</span>
+					<span class="icon icon-btn_arrow"></span>
+				</a>
+			</nav>
+			<div class="backcall-block">
+				<a href="tel:84957557617" class="phone-link"><span>8 (495) 755-76-17</span></a>
+				<a href="#consultation_modal" class="backcall-link js-simple-modal">Записаться на экскурсию <span class="icon icon-btn_arrow"></span></a>
+			</div>
+			<button class="hamburger-btn js-menu-btn" type="button" data-menu="main-menu">
+				<span class="hamburger-inner"></span>
+			</button>
+		</div>
+	</div>
+</header>
+<main class="main-wrapper">
+    <section class="projects-main">
+        <div class="container">
+            <div class="breadcrumbs-row"><ol itemscope="" itemtype="http://schema.org/BreadcrumbList"><li itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><a href="" itemprop="item"><span itemprop="name">Главная</span><meta itemprop="position" content="1"></a></li>
+<li><span itemscope="" itemprop="itemListElement" itemtype="http://schema.org/ListItem"><span itemprop="name">Проекты</span><meta itemprop="position" content="2"></span></li></ol></div>            <div class="projects-main__content">
+                <h1 class="page-title">Проекты</h1>
+                <div class="section-wrapper msearch2" id="mse2_mfilter">
+                    <div class="catalog-filter js-form-wrapper">
+    <form action="" method="post" id="mse2_filters" class="js-filter-form filter-form">
+        <div class="filter-column" id="mse2_tv|house_size">
+    <div class="filter-block js-custom-select">
+        <div class="filter-title js-current-value">
+            Габариты
+        </div>
+        <div class="list-wrapper">
+            <ul>
+                <li class="">
+    <label for="mse2_tv|house_size_1" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_1" value="6x6" class="checkbox-input"  >
+        <span>6x6</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_2" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_2" value="6x9" class="checkbox-input"  >
+        <span>6x9</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_3" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_3" value="6х8" class="checkbox-input"  >
+        <span>6х8</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_4" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_4" value="6х11" class="checkbox-input"  >
+        <span>6х11</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_8" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_8" value="7.5x7.5" class="checkbox-input"  >
+        <span>7.5x7.5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_9" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_9" value="7.5x8" class="checkbox-input"  >
+        <span>7.5x8</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_10" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_10" value="7.5x9" class="checkbox-input"  >
+        <span>7.5x9</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_11" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_11" value="7.5x10" class="checkbox-input"  >
+        <span>7.5x10</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_12" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_12" value="7x8" class="checkbox-input"  >
+        <span>7x8</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_13" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_13" value="7x9" class="checkbox-input"  >
+        <span>7x9</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_14" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_14" value="7x9.5" class="checkbox-input"  >
+        <span>7x9.5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_16" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_16" value="7x19" class="checkbox-input"  >
+        <span>7x19</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_23" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_23" value="8.5x10" class="checkbox-input"  >
+        <span>8.5x10</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_24" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_24" value="8x8" class="checkbox-input"  >
+        <span>8x8</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_25" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_25" value="8x8,5" class="checkbox-input"  >
+        <span>8x8,5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_26" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_26" value="8x8.5" class="checkbox-input"  >
+        <span>8x8.5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_27" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_27" value="8x9" class="checkbox-input"  >
+        <span>8x9</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_28" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_28" value="8x9.5" class="checkbox-input"  >
+        <span>8x9.5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_29" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_29" value="8x10" class="checkbox-input"  >
+        <span>8x10</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_30" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_30" value="8x12" class="checkbox-input"  >
+        <span>8x12</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_31" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_31" value="8x14" class="checkbox-input"  >
+        <span>8x14</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_34" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_34" value="9x9" class="checkbox-input"  >
+        <span>9x9</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_35" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_35" value="9x10" class="checkbox-input"  >
+        <span>9x10</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_36" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_36" value="9x11" class="checkbox-input"  >
+        <span>9x11</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_37" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_37" value="9x12" class="checkbox-input"  >
+        <span>9x12</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_38" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_38" value="9x13" class="checkbox-input"  >
+        <span>9x13</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_39" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_39" value="9x13,5" class="checkbox-input"  >
+        <span>9x13,5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_40" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_40" value="9x14" class="checkbox-input"  >
+        <span>9x14</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_44" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_44" value="10x8" class="checkbox-input"  >
+        <span>10x8</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_45" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_45" value="10x10" class="checkbox-input"  >
+        <span>10x10</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_46" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_46" value="10x10,5" class="checkbox-input"  >
+        <span>10x10,5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_47" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_47" value="10x11" class="checkbox-input"  >
+        <span>10x11</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_48" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_48" value="10x12" class="checkbox-input"  >
+        <span>10x12</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_49" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_49" value="10x13" class="checkbox-input"  >
+        <span>10x13</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_50" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_50" value="10x14" class="checkbox-input"  >
+        <span>10x14</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_53" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_53" value="11x12" class="checkbox-input"  >
+        <span>11x12</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_54" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_54" value="11x12.5" class="checkbox-input"  >
+        <span>11x12.5</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_size_55" class="checkbox-label ">
+        <input type="checkbox" name="size" id="mse2_tv|house_size_55" value="12x13" class="checkbox-input"  >
+        <span>12x13</span>
+    </label>
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="filter-column" id="mse2_tv|house_floors_upd">
+    <div class="filter-block js-custom-select">
+        <div class="filter-title js-current-value">
+            Этажность
+        </div>
+        <div class="list-wrapper">
+            <ul>
+                <li class="">
+    <label for="mse2_tv|house_floors_upd_0" class="checkbox-label ">
+        <input type="checkbox" name="floors" id="mse2_tv|house_floors_upd_0" value="1 этаж" class="checkbox-input"  >
+        <span>1 этаж</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_floors_upd_1" class="checkbox-label ">
+        <input type="checkbox" name="floors" id="mse2_tv|house_floors_upd_1" value="2 этажа" class="checkbox-input"  >
+        <span>2 этажа</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_floors_upd_2" class="checkbox-label ">
+        <input type="checkbox" name="floors" id="mse2_tv|house_floors_upd_2" value="Полуторный" class="checkbox-input"  >
+        <span>Полуторный</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_floors_upd_3" class="checkbox-label ">
+        <input type="checkbox" name="floors" id="mse2_tv|house_floors_upd_3" value="С мансардой" class="checkbox-input"  >
+        <span>С мансардой</span>
+    </label>
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="filter-column" id="mse2_tv|house_style">
+    <div class="filter-block js-custom-select">
+        <div class="filter-title js-current-value">
+            Стиль
+        </div>
+        <div class="list-wrapper">
+            <ul>
+                <li class="">
+    <label for="mse2_tv|house_style_0" class="checkbox-label ">
+        <input type="checkbox" name="style" id="mse2_tv|house_style_0" value="Барн-Хаус" class="checkbox-input"  >
+        <span>Барн-Хаус</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_style_1" class="checkbox-label ">
+        <input type="checkbox" name="style" id="mse2_tv|house_style_1" value="Классический" class="checkbox-input"  >
+        <span>Классический</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_style_2" class="checkbox-label ">
+        <input type="checkbox" name="style" id="mse2_tv|house_style_2" value="Хай-тек" class="checkbox-input"  >
+        <span>Хай-тек</span>
+    </label>
+</li>
+            </ul>
+        </div>
+    </div>
+</div>
+<div class="filter-column" id="mse2_tv|house_namem">
+    <div class="filter-block js-custom-select">
+        <div class="filter-title js-current-value">
+            Название
+        </div>
+        <div class="list-wrapper">
+            <ul>
+                <li class="">
+    <label for="mse2_tv|house_namem_0" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_0" value="Аврора" class="checkbox-input"  >
+        <span>Аврора</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_1" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_1" value="Аделия" class="checkbox-input"  >
+        <span>Аделия</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_2" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_2" value="Александровский" class="checkbox-input"  >
+        <span>Александровский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_3" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_3" value="Алексеевский" class="checkbox-input"  >
+        <span>Алексеевский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_4" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_4" value="Альбион" class="checkbox-input"  >
+        <span>Альбион</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_5" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_5" value="Альпийский" class="checkbox-input"  >
+        <span>Альпийский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_6" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_6" value="Андреевский" class="checkbox-input"  >
+        <span>Андреевский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_7" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_7" value="Артемовский" class="checkbox-input"  >
+        <span>Артемовский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_8" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_8" value="Байкал" class="checkbox-input"  >
+        <span>Байкал</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_9" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_9" value="Барни" class="checkbox-input"  >
+        <span>Барни</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_10" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_10" value="Берген" class="checkbox-input"  >
+        <span>Берген</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_11" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_11" value="Богатырь" class="checkbox-input"  >
+        <span>Богатырь</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_12" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_12" value="Бостон" class="checkbox-input"  >
+        <span>Бостон</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_13" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_13" value="Боярин" class="checkbox-input"  >
+        <span>Боярин</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_14" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_14" value="Брага" class="checkbox-input"  >
+        <span>Брага</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_15" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_15" value="Брайтон" class="checkbox-input"  >
+        <span>Брайтон</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_16" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_16" value="Буран" class="checkbox-input"  >
+        <span>Буран</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_17" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_17" value="Валдай" class="checkbox-input"  >
+        <span>Валдай</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_18" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_18" value="Валенсия" class="checkbox-input"  >
+        <span>Валенсия</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_19" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_19" value="Варяг" class="checkbox-input"  >
+        <span>Варяг</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_20" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_20" value="Венеция" class="checkbox-input"  >
+        <span>Венеция</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_21" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_21" value="Верден" class="checkbox-input"  >
+        <span>Верден</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_22" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_22" value="Верея" class="checkbox-input"  >
+        <span>Верея</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_23" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_23" value="Верона" class="checkbox-input"  >
+        <span>Верона</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_24" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_24" value="Весенний" class="checkbox-input"  >
+        <span>Весенний</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_25" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_25" value="Викинг" class="checkbox-input"  >
+        <span>Викинг</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_26" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_26" value="Виктория" class="checkbox-input"  >
+        <span>Виктория</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_27" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_27" value="Выборг" class="checkbox-input"  >
+        <span>Выборг</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_28" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_28" value="Гармония" class="checkbox-input"  >
+        <span>Гармония</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_29" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_29" value="Георгиевский" class="checkbox-input"  >
+        <span>Георгиевский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_30" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_30" value="Герцог" class="checkbox-input"  >
+        <span>Герцог</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_31" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_31" value="Дачник" class="checkbox-input"  >
+        <span>Дачник</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_32" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_32" value="Донской" class="checkbox-input"  >
+        <span>Донской</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_33" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_33" value="Дублин" class="checkbox-input"  >
+        <span>Дублин</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_34" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_34" value="Дунай" class="checkbox-input"  >
+        <span>Дунай</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_35" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_35" value="Европейский" class="checkbox-input"  >
+        <span>Европейский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_36" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_36" value="Зеленоград" class="checkbox-input"  >
+        <span>Зеленоград</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_37" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_37" value="Земляника" class="checkbox-input"  >
+        <span>Земляника</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_38" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_38" value="Йорк" class="checkbox-input"  >
+        <span>Йорк</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_39" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_39" value="Камелот" class="checkbox-input"  >
+        <span>Камелот</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_40" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_40" value="Карелия" class="checkbox-input"  >
+        <span>Карелия</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_41" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_41" value="Кедр" class="checkbox-input"  >
+        <span>Кедр</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_42" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_42" value="Классик" class="checkbox-input"  >
+        <span>Классик</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_43" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_43" value="Ласточка" class="checkbox-input"  >
+        <span>Ласточка</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_44" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_44" value="Лесной" class="checkbox-input"  >
+        <span>Лесной</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_45" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_45" value="Лидер" class="checkbox-input"  >
+        <span>Лидер</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_46" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_46" value="Лотос" class="checkbox-input"  >
+        <span>Лотос</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_47" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_47" value="Люксембург" class="checkbox-input"  >
+        <span>Люксембург</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_48" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_48" value="Майами" class="checkbox-input"  >
+        <span>Майами</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_49" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_49" value="Малыш" class="checkbox-input"  >
+        <span>Малыш</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_50" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_50" value="Марсэль" class="checkbox-input"  >
+        <span>Марсэль</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_51" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_51" value="Мечта" class="checkbox-input"  >
+        <span>Мечта</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_52" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_52" value="Монако" class="checkbox-input"  >
+        <span>Монако</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_53" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_53" value="Монро" class="checkbox-input"  >
+        <span>Монро</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_54" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_54" value="Монтана" class="checkbox-input"  >
+        <span>Монтана</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_55" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_55" value="Муром" class="checkbox-input"  >
+        <span>Муром</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_56" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_56" value="Нарния" class="checkbox-input"  >
+        <span>Нарния</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_57" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_57" value="Некрасовский" class="checkbox-input"  >
+        <span>Некрасовский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_58" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_58" value="Норвегия" class="checkbox-input"  >
+        <span>Норвегия</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_59" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_59" value="Норвик" class="checkbox-input"  >
+        <span>Норвик</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_60" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_60" value="Пересвет" class="checkbox-input"  >
+        <span>Пересвет</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_61" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_61" value="Переславль" class="checkbox-input"  >
+        <span>Переславль</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_62" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_62" value="Португалия" class="checkbox-input"  >
+        <span>Португалия</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_63" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_63" value="Прованс" class="checkbox-input"  >
+        <span>Прованс</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_64" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_64" value="Рублёвский" class="checkbox-input"  >
+        <span>Рублёвский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_65" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_65" value="Садко" class="checkbox-input"  >
+        <span>Садко</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_66" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_66" value="Селигер" class="checkbox-input"  >
+        <span>Селигер</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_67" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_67" value="Сицилия" class="checkbox-input"  >
+        <span>Сицилия</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_68" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_68" value="Сказка" class="checkbox-input"  >
+        <span>Сказка</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_69" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_69" value="Солнышко" class="checkbox-input"  >
+        <span>Солнышко</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_70" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_70" value="София" class="checkbox-input"  >
+        <span>София</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_71" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_71" value="Софрино" class="checkbox-input"  >
+        <span>Софрино</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_72" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_72" value="Софт" class="checkbox-input"  >
+        <span>Софт</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_73" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_73" value="Старотеряево" class="checkbox-input"  >
+        <span>Старотеряево</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_74" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_74" value="Стокгольм" class="checkbox-input"  >
+        <span>Стокгольм</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_75" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_75" value="Талдом" class="checkbox-input"  >
+        <span>Талдом</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_76" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_76" value="Терем" class="checkbox-input"  >
+        <span>Терем</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_77" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_77" value="Тимофеевский" class="checkbox-input"  >
+        <span>Тимофеевский</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_78" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_78" value="Фаворит" class="checkbox-input"  >
+        <span>Фаворит</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_79" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_79" value="Флоренция" class="checkbox-input"  >
+        <span>Флоренция</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_80" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_80" value="Фортуна" class="checkbox-input"  >
+        <span>Фортуна</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_81" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_81" value="Хуторок" class="checkbox-input"  >
+        <span>Хуторок</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_82" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_82" value="Шатура" class="checkbox-input"  >
+        <span>Шатура</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_83" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_83" value="Швеция" class="checkbox-input"  >
+        <span>Швеция</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_84" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_84" value="Эдинбург" class="checkbox-input"  >
+        <span>Эдинбург</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_85" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_85" value="Эстет" class="checkbox-input"  >
+        <span>Эстет</span>
+    </label>
+</li>
+<li class="">
+    <label for="mse2_tv|house_namem_86" class="checkbox-label ">
+        <input type="checkbox" name="name" id="mse2_tv|house_namem_86" value="Яхрома" class="checkbox-input"  >
+        <span>Яхрома</span>
+    </label>
+</li>
+            </ul>
+        </div>
+    </div>
+</div>    </form>
+    <div class="sort-row js-check-list">
+        <a href="javascript:void(0);" class="show-link js-show-list" style="display: none;"><i class="icon icon-dots"></i></a>
+        <a href="javascript:void(0);" class="clean-link js-clean-list" style="display: none;">очистить все</a>
+        <div class="sort-block js-custom-select">
+            <a href="javascript:void(0);" type="button" class="sort-link js-current-value">Отсортировать по цене</a>
+            <div class="list-wrapper">
+                <ul class="sort-list" id="mse2_sort">
+                    <li><a href="#" data-sort="resource|min_price:asc">Цена по возростанию</a></li>
+                    <li><a href="#" data-sort="resource|min_price:desc">Цена по убыванию</a></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+<div id="mse2_results" class="catalog-list">
+    
+<div class="product-item">
+    <a href="proektyi/karkasnyij-dom-kedr.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1941/medium/1.jpg" alt="1" title="1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1941/medium/3.jpg" alt="3" title="3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1941/medium/2.jpg" alt="2" title="2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1941/medium/4.jpg" alt="4" title="4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1941/medium/kedr.jpg" alt="Кедр" title="Кедр" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный дом</span> Кедр</div>
+                                                    <div class="item-price" data-fm="3250000">от 2 949 375 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">56 м<sup>2</sup></div>
+                <div class="info-item size-type">7x8</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-dom-monako.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1924/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1924/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1924/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1924/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1924/medium/monako-plan.jpg" alt="Монако_план" title="Монако_план" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный дом</span> Монако</div>
+                                                    <div class="item-price" data-fm="3760000">от 3 412 200 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">80 м<sup>2</sup></div>
+                <div class="info-item size-type">8x10</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-dom-lyuksemburg.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1920/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1920/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1920/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1920/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1920/medium/lyuksemburg.jpg" alt="Люксембург" title="Люксембург" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный дом</span> Люксембург</div>
+                                                    <div class="item-price" data-fm="4890000">от 4 437 675 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">96 м<sup>2</sup></div>
+                <div class="info-item size-type">8x12</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-kottedzh-valensiya.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1915/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1915/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1915/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1915/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1915/medium/valensiya-et1.jpg" alt="Валенсия_эт1" title="Валенсия_эт1" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный коттедж</span> Валенсия</div>
+                                                    <div class="item-price" data-fm="4375000">от 3 970 313 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">Полуторный</div>
+                <div class="info-item square-type">117 м<sup>2</sup></div>
+                <div class="info-item size-type">7,3x9</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-kottedzh-venecziya.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                <li>популярный</li>            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1902/medium/11-(2).jpg" alt="11 (2)" title="11 (2)" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1902/medium/11-(1).jpg" alt="11 (1)" title="11 (1)" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1902/medium/11-(3).jpg" alt="11 (3)" title="11 (3)" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1902/medium/4.jpg" alt="4" title="4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1902/medium/venecziya-et1-2.jpg" alt="Венеция_эт1_2" title="Венеция_эт1_2" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный коттедж</span> Венеция</div>
+                                                    <div class="item-price" data-fm="4502000">от 4 085 565 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">Полуторный</div>
+                <div class="info-item square-type">116 м<sup>2</sup></div>
+                <div class="info-item size-type">8x8,5</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-kottedzh-bajkal.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1575/medium/1.jpg" alt="1" title="1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1575/medium/2.jpg" alt="2" title="2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1575/medium/3.jpg" alt="3" title="3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1575/medium/4.jpg" alt="4" title="4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1575/medium/bajkal1.jpg" alt="Байкал1" title="Байкал1" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный коттедж</span> Байкал</div>
+                                                    <div class="item-price" data-fm="3790000">от 3 439 425 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">Полуторный</div>
+                <div class="info-item square-type">103,5 м<sup>2</sup></div>
+                <div class="info-item size-type">6x9</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-kottedzh-garmoniya.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1475/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1475/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1475/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1475/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1475/medium/garmoniya-et1.jpg" alt="Гармония_эт1" title="Гармония_эт1" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный коттедж</span> Гармония</div>
+                                                    <div class="item-price" data-fm="7600000">от 6 897 000 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">С мансардой</div>
+                <div class="info-item square-type">173,5 м<sup>2</sup></div>
+                <div class="info-item size-type">11,4x12,6</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-kottedzh-dublin.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1217/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1217/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1217/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1217/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1217/medium/dublin-1.jpg" alt="dublin-1" title="dublin-1" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный коттедж</span> Дублин</div>
+                                                    <div class="item-price" data-fm="6600000">от 5 989 500 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">Полуторный</div>
+                <div class="info-item square-type">201,5 м<sup>2</sup></div>
+                <div class="info-item size-type">11x12.5</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/barn-xaus-edinburg.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1216/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1216/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1216/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1216/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1216/medium/edinburg-01.jpg" alt="edinburg-01" title="edinburg-01" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Барн-Хаус</span> Эдинбург</div>
+                                                    <div class="item-price" data-fm="3150000">от 2 858 625 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Барн-Хаус</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">49 м<sup>2</sup></div>
+                <div class="info-item size-type">6,5x10,5</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/barn-xaus-sofrino.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1215/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1215/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1215/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1215/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1215/medium/sofrino.jpg" alt="Софрино" title="Софрино" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Барн-Хаус</span> Софрино</div>
+                                                    <div class="item-price" data-fm="3990000">от 3 620 925 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Барн-Хаус</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">69 м<sup>2</sup></div>
+                <div class="info-item size-type">7x12,5</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-kottedzh-valdaj.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1214/medium/avrora-1.jpg" alt="аврора_1" title="аврора_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1214/medium/avrora-2.jpg" alt="аврора_2" title="аврора_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1214/medium/avrora-3.jpg" alt="аврора_3" title="аврора_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1214/medium/avrora-4.jpg" alt="аврора_4" title="аврора_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1214/medium/valdaj.jpg" alt="Валдай" title="Валдай" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный коттедж</span> Валдай</div>
+                                                    <div class="item-price" data-fm="5920000">от 5 372 400 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">С мансардой</div>
+                <div class="info-item square-type">177,24 м<sup>2</sup></div>
+                <div class="info-item size-type">12x13</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/barn-xaus-vyiborg.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                <li>популярный</li>            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1205/medium/1.jpg" alt="1" title="1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1205/medium/2.jpg" alt="2" title="2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1205/medium/3.jpg" alt="3" title="3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1205/medium/4.jpg" alt="4" title="4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1205/medium/vyiborg-01.jpg" alt="Выборг_01" title="Выборг_01" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Барн-Хаус</span> Выборг</div>
+                                                    <div class="item-price" data-fm="4290000">от 3 893 175 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Барн-Хаус</div>
+                <div class="info-item floor-type">Полуторный</div>
+                <div class="info-item square-type">108 м<sup>2</sup></div>
+                <div class="info-item size-type">7,2x10,2</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/odnoetazhnyij-dom-malyish.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1202/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1202/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1202/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1202/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1202/medium/malyish.jpg" alt="Малыш" title="Малыш" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Одноэтажный дом</span> Малыш</div>
+                                                    <div class="item-price" data-fm="2260000">от 2 050 950 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">36 м<sup>2</sup></div>
+                <div class="info-item size-type">6x6</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/barn-xaus-bergen.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1199/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1199/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1199/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1199/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1199/medium/bergen.jpg" alt="Берген" title="Берген" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Барн-Хаус</span> Берген</div>
+                                                    <div class="item-price" data-fm="6010000">от 5 454 075 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Барн-Хаус</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">117,5 м<sup>2</sup></div>
+                <div class="info-item size-type">9x15,5</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/odnoetazhnyy-kottedzh-narniya.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/39/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/39/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/39/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/39/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/39/medium/narniya-plan-mebel-1.jpg" alt="Нарния_план_мебель" title="Нарния_план_мебель" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Одноэтажный коттедж</span> Нарния</div>
+                                                    <div class="item-price" data-fm="2740000">от 2 486 550 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">1 этаж</div>
+                <div class="info-item square-type">48 м<sup>2</sup></div>
+                <div class="info-item size-type">6х8</div>
+            </div>
+        </div>
+    </a>
+</div>
+
+<div class="product-item">
+    <a href="proektyi/karkasnyij-dom-sadko.html" class="item-link">
+        <div class="image-block">
+            <ul class="tag-list">
+                <li>популярный</li>            </ul>
+                <div class="gallery-wrapper" data-images="5">
+                                    <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1195/medium/1-1.jpg" alt="1_1" title="1_1" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1195/medium/1-4.jpg" alt="1_4" title="1_4" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1195/medium/1-2.jpg" alt="1_2" title="1_2" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1195/medium/1-3.jpg" alt="1_3" title="1_3" class="item-image">
+                    </picture>
+                </div>
+                                                <div class="hover-zone">
+                    <picture>
+                        <img src="/assets/images/resources/1195/medium/plan-(1).jpg" alt="план-(1)" title="план-(1)" class="item-image">
+                    </picture>
+                </div>
+                        </div>
+        </div>
+        <div class="descr-block">
+            <div class="item-name">
+                <div class="item-title"><span>Каркасный дом</span> Садко</div>
+                                                    <div class="item-price" data-fm="5840000">от 5 299 800 р.</div>
+                            </div>
+            <div class="item-info">
+                <div class="info-item house-type">Классический</div>
+                <div class="info-item floor-type">Полуторный</div>
+                <div class="info-item square-type">172 м<sup>2</sup></div>
+                <div class="info-item size-type">8,5x10</div>
+            </div>
+        </div>
+    </a>
+</div></div>                </div>
+                <div class="mse2_pagination pagination-row">
+                    <ul class="pagination-list"><li class="first disable"><a href="">Первая</a></li><li class="prev disable"><a href="">Предыдущая</a></li><li class="active"><a href="proektyi/">1</a></li><li><a href="proektyi/?page=2" class="">2</a></li><li><a href="proektyi/?page=3" class="">3</a></li><li><a href="proektyi/?page=4" class="">4</a></li><li><a href="proektyi/?page=5" class="">5</a></li><li class="next"><a href="proektyi/?page=2">Следующая</a></li><li class="last"><a href="proektyi/?page=6">Последняя</a></li></ul>                </div>
+            </div>
+        </div>
+    </section>
+    <section class="equipment-section">
+        <div class="container">
+            <h2 class="section-title">Ваша выгода <span>до 500 тыс. ₽ </span> на комплектации</h2>
+            <div class="equipment-section__content">
+                <div class="equipment-slider js-equipment-slider swiper">
+                    <div class="swiper-wrapper">
+                                                                            <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/assets/template/images/common/main/complect/s_5_col_pic_1_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/assets/template/images/common/main/complect/s_5_col_pic_1_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">107 000 ₽</span>
+                                                                                        <h3 class="item-title">Сухой Каркас 50 мм</h3>
+                                                                                            <p>вместо 40 мм – на 20% выше жесткость</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>Доска 50 мм вместо 40 мм дает на 20% более высокую жесткость каркаса. Не ведет, не ссыхается, не почернеет после строительства.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/common/dbrus/ 2_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/common/dbrus/ 2_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">47 000 ₽</span>
+                                                                                        <h3 class="item-title">Проклеенная пароизоляция</h3>
+                                                                                            <p>Finka</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>Швы пароизоляции finka premium plus проклеиваются для обеспечения надежного барьера от выхода пара в утеплитель стен.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/assets/template/images/common/main/complect/complect_image6_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/assets/template/images/common/main/complect/complect_image6_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">105 000 ₽</span>
+                                                                                        <h3 class="item-title">Широкая имитация бруса</h3>
+                                                                                            <p>16х140 камерной сушки вместо вагонки</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>Для внутренней обшивки стен вместо вагонки применяется широкая имитация бруса, придающая более премиальный вид.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/common/dbrus/Beltermo-2_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/common/dbrus/Beltermo-2_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">70 000 ₽</span>
+                                                                                        <h3 class="item-title">Экологичные плиты Белтермо</h3>
+                                                                                            <p>на 94% из натуральных волокон сосны</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <div class="t396__elem tn-elem tn-elem__7030390061470210011265" data-elem-id="1470210011265" data-elem-type="text" data-field-top-value="85" data-field-left-value="20" data-field-width-value="431" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="px" data-field-leftunits-value="px" data-field-heightunits-value="" data-field-widthunits-value="px" data-field-top-res-320-value="10" data-field-left-res-320-value="20" data-field-width-res-320-value="281" data-field-top-res-480-value="15" data-field-left-res-480-value="30" data-fields="top,left,width,height,container,axisx,axisy,widthunits,leftunits,topunits">
+<div class="tn-atom">Плиты Белтермо&nbsp;&mdash; это природный материал на 94 % состоящий из сосны!</div>
+</div>
+<div class="t396__elem tn-elem tn-elem__7030390061608730641720" data-elem-id="1608730641720" data-elem-type="text" data-field-top-value="240" data-field-left-value="20" data-field-width-value="410" data-field-axisy-value="top" data-field-axisx-value="left" data-field-container-value="grid" data-field-topunits-value="px" data-field-leftunits-value="px" data-field-heightunits-value="" data-field-widthunits-value="px" data-field-top-res-320-value="420" data-field-left-res-320-value="20" data-field-width-res-320-value="280" data-field-top-res-480-value="410" data-field-left-res-480-value="30" data-fields="top,left,width,height,container,axisx,axisy,widthunits,leftunits,topunits">
+<div class="tn-atom">Предназначены для создания эффективной и экологически-чистой звуко/теплоизоляции дома, а также его ветрозащиты</div>
+</div>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/assets/template/images/common/main/complect/b993525f2e645d03024f608b47bf67a5_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/assets/template/images/common/main/complect/b993525f2e645d03024f608b47bf67a5_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">50 000 ₽</span>
+                                                                                        <h3 class="item-title">Утеплитель Knauf Nord</h3>
+                                                                                            <p>длинные волокна (косички)</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>В структуре утеплителя Кнауф содержатся длинные волокна (косички), которые придают возможность утеплителю не ломаться после сгиба и возвращать свою форму после сжатия. Это обеспечивает равномерное распределение утеплителя в стенах каркаса.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/assets/template/images/common/main/complect/complect_image7_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/assets/template/images/common/main/complect/complect_image7_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">36 000 ₽</span>
+                                                                                        <h3 class="item-title">Кровля толщиной 0,5 мм</h3>
+                                                                                            <p>вместо 0,45 мм</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>Увеличенная толщина кровли с повышенным содержанием цинка обеспечит долговременную эксплуатацию на долгие годы.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/common/dbrus/Veka-Whs_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/common/dbrus/Veka-Whs_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">50 000 ₽</span>
+                                                                                        <h3 class="item-title">Окна Veka WHS 70 мм</h3>
+                                                                                            <p>теплопотери вдвое ниже</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>Использование надежного производителя и увеличенной толщиной профиля с энергосберегающим напылением вдвое уменьшает потери тепла через окна.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                                    <div class="swiper-slide">
+                                <div class="equipment-item">
+                                    <div class="image-block">
+                                        <div class="image-wrapper">
+                                            <picture>
+                                                <source srcset="/assets/cache_image/assets/template/images/common/main/complect/complect_image4_215x215_86a.webp" type="image/webp">
+                                                <img src="/assets/cache_image/assets/template/images/common/main/complect/complect_image4_215x215_0e0.png" alt="image" class="item-image">
+                                            </picture>
+                                        </div>
+                                        <div class="image-descr">
+                                                                                            <span class="price-value" data-saving="Ваша экономия">35 000 ₽</span>
+                                                                                        <h3 class="item-title">Входная дверь 100 мм</h3>
+                                                                                            <p>терморазрыв</p>
+                                                                                    </div>
+                                    </div>
+                                                                            <div class="descr-block">
+                                            <p>Толщина полотна входной двери 100 мм. Терморазрыв в двери защищает от холода и конденсата, поддерживает комфортную температуру фурнитуры, улучшает изоляцию и продлевает срок службы двери.</p>                                        </div>
+                                                                    </div>
+                            </div>
+                                            </div>
+                    <div class="slider-pagination"></div>
+                </div>
+            </div>
+            <div class="equipment-section__info">
+                <div class="info-title">
+                    <span>ОБЩАЯ ВЫГОДА ДО 500 000 ₽</span> <p>В сравнении с аналогичными предложениями на рынке</p>                </div>
+                <a href="akczii/" class="info-link btn btn-arrow">
+                    <span class="btn-txt">Подробнее об акциях</span>
+                    <span class="icon icon-btn_arrow"></span>
+                </a>
+            </div>
+        </div>
+    </section>
+</main>
+<footer class="footer">
+	<div class="container">
+		<div class="footer__content">
+			<div class="left-side">
+				<a class="logo-link" href="/">
+					<img src="/assets/template/new_design/images/svg/logo.svg" alt="dbrus" class="logo-image">
+				</a>
+				<div class="address">
+											<p>м.&nbsp;Домодедовская Каширское шоссе, вл.&nbsp;63</p>
+									</div>
+				<div class="time">
+											<p><p>пн-пт 10:00 - 18:00</p>
+<p>сб-вс 10:00 - 19:00</p></p>
+									</div>
+				<div class="links-wrapper">
+					<div class="links-wrapper__item">
+						<span class="item-title">Email</span>
+						<a href="mailto:info@d-brus.ru" class="info-link">info@d-brus.ru</a>
+					</div>
+					<div class="links-wrapper__item">
+						<span class="item-title">Телефон</span>
+						<a href="tel:84957557617" class="info-link js-phone-link">8 (495) 755-76-17</a>
+					</div>
+				</div>
+				<ul class="social-links">
+					<li><a href="https://wa.me/79037955022" target="_blank"><img src="assets/template/new_design/images/common/icons/wa.png" alt="whatsapp"></a></li>					<li><a href="https://www.youtube.com/@dbrus" target="_blank"><img src="assets/template/new_design/images/common/icons/yt.png" alt="youtube"></a></li>					<li><a href="https://t.me/dbrussk" target="_blank"><img src="assets/template/new_design/images/common/icons/tg.png" alt="telegram"></a></li>				</ul>
+			</div>
+			<div class="right-side">
+				<ul class="menu-list">    <li><a href="proektyi/">Проекты</a></li>
+    <li>
+        <ul class="size-list"><li><a href="proektyi-karkasnyix-domov-6-na-6.html">6*6</a></li><li><a href="proekt-doma-6-na-8.html">6*8</a></li><li><a href="proekt-doma-7-na-7.html">7*7</a></li><li><a href="proekt-doma-8-na-8.html">8*8</a></li><li><a href="proekt-doma-10-na-10.html">10*10</a></li></ul>    </li>
+    <li><a href="proektyi-odnoetazhnyix-domov.html">Одноэтажные дома</a></li>
+    <li><a href="proektyi-dvuxetazhnyix-domov-i-kottedzhej.html">Двухэтажные дома</a></li>
+</ul>				<ul class="menu-list"><li><a href="postroennyie-doma/">Построенные дома</a></li><li><a href="akczii/">Акции</a></li><li><a href="ipoteka.html">Программы ипотеки</a></li><li><a href="stroitelstvo-doma-s-eskrou.html">Эскроу</a></li><li><a href="materinskij-kapital.html">Материнский капитал</a></li></ul>				<ul class="menu-list"><li><a href="o-nas.html">О компании</a></li><li><a href="video/">Наш youtube канал</a></li><li><a href="otzyivyi.html">Отзывы</a></li><li><a href="novosti-kompanii/">Новости</a></li><li><a href="kontaktyi.html">Контакты</a></li></ul>			</div>
+		</div>
+		<div class="footer__copyright">
+			<div class="left-side">
+									<p>&copy; Дбрус 2009-2024. Строительство каркасных домов под ключ.</p>
+<p>Информация на сайте не является публичной офертой.</p>							</div>
+			<div class="right-side">
+				<div class="info-wrapper">
+					<a href="politika.html" class="privacy-link">Политика конфиденциальности</a>
+											<p>ООО "ДБРУС"</p>
+<p>ИНН 7751199086</p>
+<p>ОГРН 1217700265309</p>									</div>
+									<p><a class="made-link" href="https://www.empathica.pro/?utm_source=dbrus" target="_blank" rel="noopener">Made by <span style="text-decoration: underline;">EMPATHICA</span></a></p>							</div>
+		</div>
+	</div>
+	<div class="fixed-wrapper">
+		<div class="container">
+			<a href="javascript:void(0);" class="scroll-link js-scrolltop-btn">
+				<span class="icon icon-btn_arrow"></span>
+			</a>
+		</div>
+	</div>
+</footer>
+	<div id="privacyNotice" class="privacy-block">
+		<div class="privacy-block__content">
+			<p>Используя этот сайт, вы даёте согласие на хранение файлов cookie на своём устройстве для улучшения навигации, анализа использования сайта и помощи в наших маркетинговых усилиях. Подробнее — в <a href="https://dbrus.ru/politika.html">Политике конфиденциальности</a>.</p>
+		</div>
+		<a href="javascript:void(0);" class="js-privacy-close close-btn btn primary-btn">
+			<span class="btn-txt">Принять и закрыть</span>
+		</a>
+	</div>
+<div id="mortgage_modal" class="mortgage-modal modal-style mfp-with-anim mfp-hide">
+	<div class="modal-wrapper">
+		<a href="javascript:void(0);" class="js-modal-close close-btn"><span class="icon icon-close"></span></a>
+		<div class="modal-title">Рассчитайте ипотеку</div>
+		<div class="modal-descr">
+			<p>Персональный кредитный менеджер подберёт лучшие решения из 3-х банков за 1 день с вероятностью одобрения в 99%</p>
+		</div>
+		<div class="modal-form">
+			<form method="post" action="" class="js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="Ge7kaZkJmQP93YRcR5jLWmHRZlGQKvJc2qszanHV">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/proektyi/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="">    <input type="hidden" name="project" value="Проекты">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Рассчитать ипотеку">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="" style="display: none;">
+    <input type="hidden" name="check[]" value="">
+
+    <div class="input-group">
+        <label>
+            <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+        </label>
+    </div>
+    <div class="input-group">
+        <label>
+            <input type="tel" name="phone" placeholder="Ваш телефон" class="input-style js-phone-input">
+        </label>
+    </div>
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">
+                <p>Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html" target="_blank">Политикой конфиденциальности</a></p>
+            </span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="btn primary-btn submit-btn">
+            <span class="btn-txt">Получить предложение</span>
+            <span class="icon icon-btn_arrow"></span>
+        </button>
+    </div>
+
+	<input type="hidden" name="af_action" value="db0bf4ec6a35bbb0484968946f305047" />
+</form>		</div>
+	</div>
+</div>
+<div id="consultation_modal" class="consultation-modal modal-style mfp-with-anim mfp-hide">
+	<div class="modal-wrapper">
+		<a href="javascript:void(0);" class="js-modal-close close-btn"><span class="icon icon-close"></span></a>
+		<div class="modal-title">Убедитесь в качестве лично,
+запишитесь на экскурсию</div>
+		<form method="post" action="" class="form-content modal-content js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="Ge7kaZkJmQP93YRcR5jLWmHRZlGQKvJc2qszanHV">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/proektyi/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="">    <input type="hidden" name="project" value="Проекты">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Записаться на экскурсию">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="" style="display: none;">
+    <input type="hidden" name="check[]" value="">
+    <div class="left-side">
+        <div class="text-item active" data-type="9">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ДОМ № 9 В КЛАССИЧЕСКОМ СТИЛЕ, ОЦЕНИТЬ КАЧЕСТВО ПОСТРОЙКИ, ЗАДАТЬ ВСЕ ИНТЕРЕСУЮЩИЕ ВОПРОСЫ. АДРЕС:</p>
+            <p>Г.. МОСКВА, КАШИРСКОЕ Ш., ВЛ.. 63К.1, ВЫСТАВОЧНЫЙ ДОМ № 9 (М.ДОМОДЕДОВСКАЯ)</p>
+        </div>
+        <div class="text-item" data-type="17">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ДОМ № 17 В СОВРЕМЕННОМ СТИЛЕ, ОЦЕНИТЬ КАЧЕСТВО ПОСТРОЙКИ, ЗАДАТЬ ВСЕ ИНТЕРЕСУЮЩИЕ ВОПРОСЫ. АДРЕС:</p>
+            <p>Г.. МОСКВА, КАШИРСКОЕ Ш., ВЛ.. 63К.1, ВЫСТАВОЧНЫЙ ДОМ № 17 (М.ДОМОДЕДОВСКАЯ)</p>
+        </div>
+        <div class="text-item" data-type="917">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ДОМА № 9 и № 17, ОЦЕНИТЬ КАЧЕСТВО ПОСТРОЙКИ, ЗАДАТЬ ВСЕ ИНТЕРЕСУЮЩИЕ ВОПРОСЫ. ДОМА НАХОДЯТСЯ ПО АДРЕСУ:</p>
+            <p>Г.. МОСКВА, КАШИРСКОЕ Ш., ВЛ.. 63К.1, ВЫСТАВОЧНЫЙ ДОМ № 9, № 17 (М.ДОМОДЕДОВСКАЯ)</p>
+        </div>
+        <div class="text-item" data-type="build">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ПРОЦЕСС СТРОЙКИ, ОЦЕНИТЬ КАЧЕСТВО, ЗАДАТЬ ВСЕ ИНТЕРЕСУЮЩИЕ ВОПРОСЫ НАШЕМУ СПЕЦИАЛИСТУ ПО ТЕХНАДЗОРУ</p>
+            <p>МЫ ПОДБЕРЕМ БЛИЖАЙШИЙ К ВАМ ДОМ, И СОГЛАСУЕМ ВОЗМОЖНОЕ ВРЕМЯ ДЛЯ ПОСЕЩЕНИЯ</p>
+        </div>
+        <div class="text-item" data-type="build9">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ДОМ № 9 И ОЦЕНИТЬ КАЧЕСТВО. АДРЕС: Г. МОСКВА, КАШИРСКОЕ Ш., ВЛ. 63К.1, ВЫСТАВОЧНЫЙ ДОМ № 9 (М.ДОМОДЕДОВСКАЯ)</p>
+            <p>МЫ МОЖЕМ ТАКЖЕ ПОКАЗАТЬ ВАМ БЛИЖАЙШИЙ СТРОЯЩИЙСЯ ДОМ — СОГЛАСУЕМ УДОБНОЕ ВРЕМЯ ДЛЯ ПОСЕЩЕНИЯ.</p>
+        </div>
+        <div class="text-item" data-type="build17">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ДОМ № 17 И ОЦЕНИТЬ КАЧЕСТВО. АДРЕС: Г. МОСКВА, КАШИРСКОЕ Ш., ВЛ. 63К.1, ВЫСТАВОЧНЫЙ ДОМ № 17. (М.ДОМОДЕДОВСКАЯ)</p>
+            <p>МЫ МОЖЕМ ТАКЖЕ ПОКАЗАТЬ ВАМ БЛИЖАЙШИЙ СТРОЯЩИЙСЯ ДОМ — СОГЛАСУЕМ УДОБНОЕ ВРЕМЯ ДЛЯ ПОСЕЩЕНИЯ.</p>
+        </div>
+        <div class="text-item" data-type="build917">
+            <p>ВЫ СМОЖЕТЕ ПОСМОТРЕТЬ ДОМА № 9 И № 17 И ОЦЕНИТЬ КАЧЕСТВО. АДРЕС: Г. МОСКВА, КАШИРСКОЕ Ш., ВЛ. 63К.1, ВЫСТАВОЧНЫЙ ДОМ № 9, № 17.</p>
+            <p>МЫ МОЖЕМ ТАКЖЕ ПОКАЗАТЬ ВАМ БЛИЖАЙШИЙ СТРОЯЩИЙСЯ ДОМ — СОГЛАСУЕМ УДОБНОЕ ВРЕМЯ ДЛЯ ПОСЕЩЕНИЯ.</p>
+        </div>
+        <div class="text-item" data-type="none">
+            <p>Вы сможете посмотреть два дома в разных стилях, строящийся объект, оценить качество лично и задать все интересующие вопросы — для этого оставьте заявку.</p>
+        </div>
+    </div>
+    <div class="right-side">
+        <div class="choose-type js-video-hover">
+            <label>
+                <div class="video-block">
+                                            <video src="/assets/videos/9-360.mp4#t=0.001" muted loop playsinline></video>
+                                    </div>
+                <input type="checkbox" name="house" value="9" checked>
+                <span class="label">Выставочный дом №9</span>
+            </label>
+        </div>
+        <div class="choose-type js-video-hover">
+            <label>
+                <div class="video-block">
+                                            <video src="/assets/videos/17-260.mp4#t=0.001" muted loop playsinline></video>
+                                    </div>
+                <input type="checkbox" name="house" value="17">
+                <span class="label">Выставочный дом №17</span>
+            </label>
+        </div>
+        <div class="choose-type ">
+            <label>
+                <div class="video-block">
+                                            <img src="/assets/images/0000_522x374_ccc.webp" alt="image">
+                                    </div>
+                <input type="checkbox" name="house" value="build">
+                <span class="label">Строящийся дом</span>
+            </label>
+        </div>
+    </div>
+    <div class="form-side">
+        <div class="input-group">
+            <label>
+                <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+            </label>
+        </div>
+        <div class="input-group">
+            <label>
+                <input type="tel" name="phone" placeholder="Ваш телефон" class="input-style js-phone-input">
+            </label>
+        </div>
+        <div class="input-group btn-group">
+            <button type="submit" class="submit-btn primary-btn">
+                <span class="btn-txt">Записаться на экскурсию</span>
+                <span class="icon icon-btn_arrow"></span>
+            </button>
+        </div>
+        <div class="input-group check-group">
+            <label>
+                <input type="checkbox" name="check" value="1">
+                <span class="label"><p>Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html" target="_blank">Политикой конфиденциальности‍</a></p></span>
+            </label>
+        </div>
+    </div>
+
+	<input type="hidden" name="af_action" value="8a3ca2735fbcfe904cc8efc3dc43a383" />
+</form>	</div>
+</div>
+<div id="capital_modal" class="capital-modal modal-style mfp-with-anim mfp-hide">
+	<div class="modal-wrapper">
+		<a href="javascript:void(0);" class="js-modal-close close-btn"><span class="icon icon-close"></span></a>
+		<div class="modal-title">Консультация по маткапиталу</div>
+		<div class="modal-descr">
+			<p>Персональный кредитный менеджер объяснит, как применить материнский капитал при строительстве и поможет подобрать оптимальные условия в банке</p>
+		</div>
+		<div class="modal-form">
+			<form method="post" action="" class="js-form-check ajax_form">
+    <input type="hidden" name="csrf_token" value="Ge7kaZkJmQP93YRcR5jLWmHRZlGQKvJc2qszanHV">
+    <input type="hidden" name="utm_source" value=""><input type="hidden" name="utm_medium" value=""><input type="hidden" name="utm_term" value=""><input type="hidden" name="utm_content" value=""><input type="hidden" name="utm_campaign" value=""><input type="hidden" name="ip" value="213.255.209.123"><input type="hidden" name="url" value="https://dbrus.ru/proektyi/"><input type="hidden" name="roistat" value=""><input type="hidden" name="roistat_referrer" value=""><input type="hidden" name="roistat_pos" value=""><input type="hidden" name="yclid" value=""><input type="hidden" name="original_ref" value="https://dbrus.ru/"><input type="hidden" name="start_page" value="https://dbrus.ru/"><input type="hidden" name="_ym_uid" value="">    <input type="hidden" name="project" value="Проекты">
+    <input type="hidden" name="subject" value="Заявка с проекта">
+    <input type="hidden" name="subjectcase" value="Консультация по маткапиталу">
+    <input type="text" name="call_message" class="input-style call_message" placeholder="" style="display: none;">
+    <input type="hidden" name="check[]" value="">
+
+    <div class="input-group">
+        <label>
+            <input type="text" name="name" class="input-style" placeholder="Ваше имя">
+        </label>
+    </div>
+    <div class="input-group">
+        <label>
+            <input type="tel" name="phone" placeholder="Ваш телефон" class="input-style js-phone-input">
+        </label>
+    </div>
+    <div class="input-group check-group">
+        <label>
+            <input type="checkbox" name="check[]" value="1">
+            <span class="label">
+                <p>Предоставляя свою личную информацию, соглашаюсь с <a href="politika.html" target="_blank">Политикой конфиденциальности</a></p>
+            </span>
+        </label>
+    </div>
+    <div class="input-group btn-group">
+        <button type="submit" class="btn primary-btn submit-btn">
+            <span class="btn-txt">Получить консультацию</span>
+            <span class="icon icon-btn_arrow"></span>
+        </button>
+    </div>
+
+	<input type="hidden" name="af_action" value="e6155f21dbc5ae4fbbf1aae975d0d346" />
+</form>		</div>
+	</div>
+</div>
+<script rel="preload" src="/assets/template/new_design/js/libs/jquery.js"></script>
+<script src="/assets/template/new_design/js/libs/gsap.js"></script>
+<script src="/assets/template/new_design/js/libs/scrolltrigger.js"></script>
+<script src="/assets/template/new_design/js/libs/splittype.js"></script>
+<script src="/assets/template/new_design/js/libs/jquery.maskedinput.js"></script>
+<script src="/assets/template/new_design/js/libs/swiper-bundle.js"></script>
+<script src="/assets/template/new_design/js/libs/jquery.magnific-popup.js"></script>
+<script src="/assets/template/new_design/js/libs/cookie.js"></script>
+<script data-v="cache" defer src="/assets/template/new_design/js/common.js"></script>
+<script type="text/javascript">			(function (d, w, c) {
+				(w[c] = w[c] || []).push(function() {
+					try {
+						w.yaCounter24059179 = new Ya.Metrika({
+							id:24059179,
+							clickmap:true,
+							trackLinks:true,
+							accurateTrackBounce:true,
+							webvisor:true
+						});
+					} catch(e) { }
+				});
+				
+				var n = d.getElementsByTagName("script")[0],
+					s = d.createElement("script"),
+					f = function () { n.parentNode.insertBefore(s, n); };
+				s.type = "text/javascript";
+				s.async = true;
+				s.src = "https://mc.yandex.ru/metrika/watch.js";
+				
+				if (w.opera == "[object Opera]") {
+					d.addEventListener("DOMContentLoaded", f, false);
+				} else { f(); }
+			})(document, window, "yandex_metrika_callbacks");</script>
+
+
+<script src="/assets/components/seofilter/js/web/default.js"></script>
+<script src="/assets/components/minishop2/js/web/default.js?v=667ec14321"></script>
+<script src="/assets/components/minishop2/js/web/lib/jquery.jgrowl.min.js"></script>
+<script src="/assets/components/minishop2/js/web/message_settings.js"></script>
+<script src="/assets/components/msearch2/js/web/default.js"></script>
+<script type="text/javascript">ms2GalleryConfig={"cssUrl":"\/assets\/components\/ms2gallery\/css\/web\/","jsUrl":"\/assets\/components\/ms2gallery\/js\/web\/"};</script>
+<script src="/assets/components/ms2gallery/js/web/default.js"></script>
+
+<script type="text/javascript">
+    if ($("#mse2_mfilter").length) {
+        if (window.location.hash != "" && mSearch2.Hash.oldbrowser()) {
+            var uri = window.location.hash.replace("#", "?");
+            window.location.href = document.location.pathname + uri;
+        }
+        else {
+            mSearch2.initialize("body");
+        }
+    }
+    </script>
+<script src="/assets/components/ajaxform/js/default.js"></script>
+<script>AjaxForm.initialize({"assetsUrl":"\/assets\/components\/ajaxform\/","actionUrl":"\/assets\/components\/ajaxform\/action.php","closeMessage":"\u0437\u0430\u043a\u0440\u044b\u0442\u044c \u0432\u0441\u0435","formSelector":"form.ajax_form","clearFieldsOnSuccess":true,"pageId":2});</script>
+</body>
+</html>
+
+<script src="//code.jivo.ru/widget/sGfyWYxo7j" async></script>

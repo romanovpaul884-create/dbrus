@@ -3,22 +3,24 @@
   Хлебные крошки на основе цепочки родителей текущего ресурса.
   На главной странице (id == site_start) блок не выводится.
 *}
-{if $_modx->resource.id != $_modx->config['site_start']}
+{var $resId  = intval($_modx->resource.id)}
+{var $homeId = intval($_modx->config['site_start'])}
+
+{if $resId > 0 && $resId != $homeId}
     {var $url = $_modx->config['site_url']}
-    {var $homeId = intval($_modx->config['site_start'])}
 
     {var $items = [[
         'id'   => $homeId,
         'name' => 'Главная'
     ]]}
 
-    {var $parentIds = array_reverse($_modx->getParentIds($_modx->resource.id, 10))}
+    {var $parentIds = array_reverse($_modx->getParentIds($resId, 10))}
     {foreach $parentIds as $pid}
-        {if $pid && $pid != $homeId}
-            {var $p = $_modx->getObject('modResource', $pid)}
+        {if intval($pid) > 0 && intval($pid) != $homeId}
+            {var $p = $_modx->getObject('modResource', intval($pid))}
             {if $p}
                 {set $items[] = [
-                    'id'   => $pid,
+                    'id'   => intval($pid),
                     'name' => $p.menutitle ?: $p.pagetitle
                 ]}
             {/if}
@@ -26,7 +28,7 @@
     {/foreach}
 
     {set $items[] = [
-        'id'   => $_modx->resource.id,
+        'id'   => $resId,
         'name' => $_modx->resource.menutitle ?: $_modx->resource.pagetitle
     ]}
 
@@ -36,9 +38,14 @@
           Для главной (i == 0) URL берём из настройки site_url —
           $_modx->makeUrl(site_start, ..., 'full') в этой версии MODX
           возвращает пустую строку, и Google ругается на missing "item".
-          Для остальных пунктов makeUrl работает корректно.
+          Для остальных пунктов makeUrl работает корректно, но вызываем
+          его только когда id заведомо валидный, чтобы не плодить
+          PHP-warning «… is not a valid integer …» в error.log.
         *}
-        {var $itemUrl = $i == 0 ? $url : $_modx->makeUrl($item.id, '', '', 'full')}
+        {var $itemUrl = $url}
+        {if $i > 0 && intval($item.id) > 0}
+            {set $itemUrl = $_modx->makeUrl(intval($item.id), '', '', 'full')}
+        {/if}
         {set $list[] = [
             '@type'    => 'ListItem',
             'position' => $i + 1,
@@ -47,10 +54,11 @@
         ]}
     {/foreach}
 
+    {var $pageUrl = $_modx->makeUrl($resId, '', '', 'full')}
     {var $crumb = [
         '@context'        => 'https://schema.org',
         '@type'           => 'BreadcrumbList',
-        '@id'             => $_modx->makeUrl($_modx->resource.id, '', '', 'full') ~ '#breadcrumb',
+        '@id'             => $pageUrl ~ '#breadcrumb',
         'itemListElement' => $list
     ]}
 

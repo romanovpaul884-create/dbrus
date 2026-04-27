@@ -1,0 +1,1368 @@
+Здесь вы можете изменить основные опции и настройки системы управления MODX, а также сайта. Каждая настройка будет доступна через плейсхолдер [[++key]].
+Дважды нажмите по параметру в колонке «Значение» для редактирования, или нажмите правой кнопкой мыши для других действий. Чтобы увидеть описание настройки, нажмите на «+».
+
+core
+Не указано (19)
+Поиск по ключу...
+ 
+dbrus_2gis
+dbrus_2gis
+https://2gis.ru/moscow/firm/70000001025900066
+—
+ 
+dbrus_address
+dbrus_address
+м. Домодедовская Каширское шоссе, вл. 63
+—
+ 
+dbrus_city
+dbrus_city
+Москва
+—
+ 
+dbrus_email
+dbrus_email
+info@d-brus.ru
+—
+ 
+dbrus_geo_lat
+dbrus_geo_lat
+55.607794
+—
+ 
+dbrus_geo_lng
+dbrus_geo_lng
+37.721265
+2026-04-27, 10:47 am
+ 
+dbrus_logo
+dbrus_logo
+assets/template/images/svg/logo_mobile.svg
+—
+ 
+dbrus_open_hours
+dbrus_open_hours
+Mo-Su 09:00-21:00
+—
+ 
+dbrus_phone
+dbrus_phone
++74957557617
+—
+ 
+dbrus_postal_code
+dbrus_postal_code
+115583
+—
+ 
+dbrus_rutube
+dbrus_rutube
+ 
+—
+ 
+dbrus_schema_template_map
+dbrus_schema_template_map
+ 
+—
+ 
+dbrus_search_url_template
+dbrus_search_url_template
+search?q={search_term_string}
+—
+ 
+dbrus_telegram
+dbrus_telegram
+https://t.me/dbrussk
+—
+ 
+dbrus_vk
+dbrus_vk
+ 
+—
+ 
+dbrus_yandex_business
+dbrus_yandex_business
+https://yandex.ru/profile/108290001484?lang=ru
+—
+ 
+dbrus_yandex_maps
+dbrus_yandex_maps
+https://yandex.ru/profile/108290001484?lang=ru
+—
+ 
+dbrus_youtube
+dbrus_youtube
+https://www.youtube.com/@dbrus
+—
+ 
+dbrus_zoon
+dbrus_zoon
+https://zoon.ru/msk/building/stroitelnaya_kompaniya_dbrus/?ysclid=mogwdzqwdq498991446
+—
+ 
+phpThumb Разрешить источники выше корневой директории
+phpthumb_allow_src_above_docroot
+Нет
+—
+ 
+phpThumb Максимальное время жизни кэша
+phpthumb_cache_maxage
+30
+—
+ 
+phpThumb Максимальное количество кэшированных файлов
+phpthumb_cache_maxfiles
+10000
+—
+ 
+phpThumb Максимальный размер кэша
+phpthumb_cache_maxsize
+100
+—
+ 
+phpThumb Кэшировать файлы-источники
+phpthumb_cache_source_enabled
+Нет
+—
+ 
+phpThumb Корневая директория
+phpthumb_document_root
+ 
+—
+ 
+phpThumb Цвет фона сообщения об ошибке
+phpthumb_error_bgcolor
+CCCCFF
+—
+ 
+phpThumb Размер шрифта сообщения об ошибке
+phpthumb_error_fontsize
+1
+—
+ 
+phpThumb Цвет текста ошибки
+phpthumb_error_textcolor
+FF0000
+—
+ 
+phpThumb Принудительное соотношение сторон
+phpthumb_far
+C
+—
+ 
+phpThumb Путь к ImageMagick
+phpthumb_imagemagick_path
+ 
+—
+ 
+phpThumb Отключить хотлинкинг
+phpthumb_nohotlink_enabled
+Да
+—
+ 
+phpThumb Удалять изображения при включенном Hotlinking
+phpthumb_nohotlink_erase_image
+Да
+—
+ 
+phpThumb Сообщение о запрете Hotlinking
+phpthumb_nohotlink_text_message
+Off-server thumbnailing is not allowed
+—
+ 
+phpThumb Допустимые домены для Hotlinking
+phpthumb_nohotlink_valid_domains
+{http_host}
+—
+ 
+phpThumb Запрещать внешние ссылки
+phpthumb_nooffsitelink_enabled
+Нет
+—
+ 
+phpThumb Удалять изображения по внешним ссылкам
+phpthumb_nooffsitelink_erase_image
+Да
+—
+ 
+phpThumb Требовать указание referrer для внешних подключений
+phpthumb_nooffsitelink_require_refer
+Нет
+—
+ 
+phpThumb Сообщение о недоступности внешних ссылок
+phpthumb_nooffsitelink_text_message
+Off-server linking is not allowed
+—
+ 
+phpThumb Допустимые домены для внешних ссылок
+phpthumb_nooffsitelink_valid_domains
+{http_host}
+—
+ 
+phpThumb Адрес водяного знака для внешних запросов
+phpthumb_nooffsitelink_watermark_src
+ 
+—
+ 
+phpThumb Кадрирование
+phpthumb_zoomcrop
+0
+—
+ 
+Проверять доступ к категориям
+access_category_enabled
+Да
+—
+ 
+Проверять доступ к контекстам
+access_context_enabled
+Да
+—
+ 
+Проверять доступ к группам ресурсов
+access_resource_group_enabled
+Да
+—
+ 
+Отображать «Забыли своё имя пользователя?» на странице входа в систему управления.
+allow_manager_login_forgot_password
+Да
+—
+ 
+Разрешить пользователям использовать один адрес электронной почты
+allow_multiple_emails
+Да
+—
+ 
+Длительность блокировки
+blocked_minutes
+60
+—
+ 
+Электронная почта отправителя
+emailsender
+info@lp5.biz
+2018-07-06, 7:06 pm
+ 
+Тема письма при регистрации
+emailsubject
+Your login details
+—
+ 
+Количество неудачных попыток входа
+failed_login_attempts
+5
+—
+ 
+Письмо восстановления пароля
+forgot_login_email
+<p>Hello [[+username]],</p> <p>A request for a password reset has been issued for your MODX user. If you sent this, you may follow this link and use this password to login. If you did not send this request, please ignore this email.</p> <p> <strong>Activation Link:</strong> [[+url_scheme]][[+http_host]][[+manager_url]]?modahsh=[[+hash]]<br /> <strong>Username:</strong> [[+username]]<br /> <strong>Password:</strong> [[+password]]<br /> </p> <p>After you log into the MODX Manager, you can change your password again, if you wish.</p> <p>Regards,<br />Site Administrator</p>
+—
+ 
+Альтернативный URL страницы входа в систему управления
+manager_login_url_alternate
+ 
+—
+ 
+Длина сгенерированного пароля
+password_generated_length
+8
+—
+ 
+Минимальная длина пароля
+password_min_length
+8
+—
+ 
+Целевые классы для загрузки списков контроля доступа
+principal_targets
+modAccessContext,modAccessResourceGroup,modAccessCategory,sources.modAccessMediaSource,modAccessNamespace
+—
+ 
+Письмо регистрации
+signupemail_message
+<p>Hello [[+uid]],</p> <p>Here are your login details for the [[+sname]] MODX Manager:</p> <p> <strong>Username:</strong> [[+uid]]<br /> <strong>Password:</strong> [[+pwd]]<br /> </p> <p>Once you log into the MODX Manager at [[+surl]], you can change your password.</p> <p>Regards,<br />Site Administrator</p>
+—
+ 
+Разрешить доступ к корневой папке
+udperms_allowroot
+Нет
+—
+ 
+Напоминание пароля
+webpwdreminder_message
+<p>Hello [[+uid]],</p> <p>To activate your new password click the following link:</p> <p>[[+surl]]</p> <p>If successful you can use the following password to login:</p> <p><strong>Password:</strong> [[+pwd]]</p> <p>If you did not request this email then please ignore it.</p> <p>Regards,<br /> Site Administrator</p>
+—
+ 
+Регистрация веб-пользователя
+websignupemail_message
+<p>Hello [[+uid]],</p> <p>Here are your login details for [[+sname]]:</p> <p><strong>Username:</strong> [[+uid]]<br /> <strong>Password:</strong> [[+pwd]]</p> <p>Once you log into [[+sname]] at [[+surl]], you can change your password.</p> <p>Regards,<br /> Site Administrator</p>
+—
+ 
+Путь к CSS-файлу
+editor_css_path
+ 
+—
+ 
+CSS-селекторы для текстового редактора
+editor_css_selectors
+ 
+—
+ 
+Использовать текстовый редактор
+use_editor
+Да
+—
+ 
+Редактор
+which_editor
+TinyMCE RTE
+2018-04-02, 3:32 pm
+ 
+Редактор кода
+which_element_editor
+Ace
+2018-04-01, 2:05 pm
+ 
+Автоматически генерировать псевдоним
+automatic_alias
+Да
+—
+ 
+Суффикс контейнера
+container_suffix
+/
+—
+ 
+Только строчные символы в псевдонимах
+friendly_alias_lowercase_only
+Да
+—
+ 
+Максимальная длина псевдонима
+friendly_alias_max_length
+70
+2018-04-22, 11:22 pm
+ 
+Создавать ЧПУ-псевдоним (так называемые «дружественные URL») «на лету»
+friendly_alias_realtime
+Нет
+—
+ 
+Метод фильтрации символов в псевдонимах
+friendly_alias_restrict_chars
+alphanumeric
+2018-04-22, 11:22 pm
+ 
+Шаблон для фильтрации символов в псевдонимах
+friendly_alias_restrict_chars_pattern
+/[\0\x0B\t\n\r\f\a&=+%#<>"~:`@\?\[\]\{\}\|\^'\\]/
+—
+ 
+Вырезать теги элементов из псевдонима
+friendly_alias_strip_element_tags
+Да
+—
+ 
+Транслитерация псевдонимов
+friendly_alias_translit
+russian
+2018-04-01, 2:27 pm
+ 
+Класс, управляющий транслитерацией псевдонимов
+friendly_alias_translit_class
+modx.translit.modTransliterate
+2018-04-01, 2:15 pm
+ 
+Путь к классу, осуществляющему транслитерацию псевдонимов
+friendly_alias_translit_class_path
+{core_path}components/translit/model/
+2018-04-01, 2:15 pm
+ 
+Символы, вырезаемые из псевдонима
+friendly_alias_trim_chars
+/.-_
+—
+ 
+Разделитель слов в псевдонимах
+friendly_alias_word_delimiter
+-
+—
+ 
+Разделители слов в псевдонимах
+friendly_alias_word_delimiters
+-_
+—
+ 
+Использовать дружественные URL
+friendly_urls
+Да
+2018-04-01, 2:27 pm
+ 
+Строгий режим дружественных URL
+friendly_urls_strict
+Нет
+—
+ 
+Проверять на дублирование URI во всех контекстах
+global_duplicate_uri_check
+Нет
+—
+ 
+Использовать вложенные URL
+use_alias_path
+Да
+2018-04-01, 2:27 pm
+ 
+Использовать «замороженные» URI родителя
+use_frozen_parent_uris
+Нет
+—
+ 
+Включить кэширование карты действий
+cache_action_map
+Да
+—
+ 
+Разрешить кэширование карты псевдонимов контекста
+cache_alias_map
+Да
+—
+ 
+Включить кэширование настроек контекстов
+cache_context_settings
+Да
+—
+ 
+Включить кэширование базы данных
+cache_db
+Нет
+—
+ 
+Время жизни кэша базы данных
+cache_db_expires
+0
+—
+ 
+Включить кэширование сессий, обрабатываемых базой данных
+cache_db_session
+Нет
+—
+ 
+Время жизни кэша сессий базы данных
+cache_db_session_lifetime
+ 
+—
+ 
+Кэшируемый по умолчанию
+cache_default
+Да
+—
+ 
+Время жизни кэша
+cache_expires
+0
+—
+ 
+Используемый формат кэша
+cache_format
+0
+—
+ 
+Класс-обработчик системы кэширования
+cache_handler
+xPDOFileCache
+—
+ 
+Кэшировать JavaScript-файлы с записями словаря
+cache_lang_js
+Да
+—
+ 
+Кэшировать темы словарей
+cache_lexicon_topics
+Да
+—
+ 
+Кэшировать темы словарей, не входящие в ядро
+cache_noncore_lexicon_topics
+Да
+—
+ 
+Включить частичное кэширование ресурсов
+cache_resource
+Нет
+2022-10-28, 9:33 pm
+ 
+Частичная очистка кэша для указанных контекстов
+cache_resource_clear_partial
+Нет
+—
+ 
+Время жизни частичного кэша ресурсов
+cache_resource_expires
+0
+—
+ 
+Включить кэширование скриптов
+cache_scripts
+Да
+—
+ 
+Включить кэширование настроек системы
+cache_system_settings
+Да
+—
+ 
+Обновлять древовидные меню при очистке кэша сайта
+clear_cache_refresh_trees
+Нет
+—
+ 
+Очищать кэш по умолчанию
+syncsite_default
+Да
+—
+ 
+Использовать таблицу "context_resource" для обновления кэша контекста
+use_context_resource_table
+Да
+—
+ 
+Кодировка
+mail_charset
+UTF-8
+—
+ 
+Формат кодирования
+mail_encoding
+8bit
+—
+ 
+SMTP аутентификация
+mail_smtp_auth
+Нет
+—
+ 
+Авто TLS для SMTP
+mail_smtp_autotls
+Да
+—
+ 
+SMTP Helo сообщение
+mail_smtp_helo
+ 
+—
+ 
+SMTP хосты
+mail_smtp_hosts
+localhost
+—
+ 
+SMTP удержание соединения
+mail_smtp_keepalive
+Нет
+—
+ 
+SMTP пароль
+mail_smtp_pass
+ 
+—
+ 
+SMTP номер порта
+mail_smtp_port
+587
+—
+ 
+Шифрование SMTP
+mail_smtp_prefix
+ 
+—
+ 
+SMTP посылать по одному
+mail_smtp_single_to
+Нет
+—
+ 
+SMTP время ожидания
+mail_smtp_timeout
+10
+—
+ 
+SMTP пользователь
+mail_smtp_user
+ 
+—
+ 
+Использовать SMTP
+mail_use_smtp
+Нет
+—
+ 
+Прокси тип авторизации
+proxy_auth_type
+BASIC
+—
+ 
+Прокси-хост
+proxy_host
+ 
+—
+ 
+Прокси-пароль
+proxy_password
+ 
+—
+ 
+Прокси-порт
+proxy_port
+ 
+—
+ 
+Пользователь прокси-сервера
+proxy_username
+ 
+—
+ 
+Автоматически помечать как «контейнер»
+auto_isfolder
+Да
+—
+ 
+Нумерация меню по умолчанию
+auto_menuindex
+Да
+—
+ 
+Автоматическое присвоение шаблона
+automatic_template_assignment
+parent
+—
+ 
+Тип содержимого по умолчанию
+default_content_type
+1
+—
+ 
+Контекст по умолчанию
+default_context
+web
+—
+ 
+Шаблон по умолчанию
+default_template
+1
+—
+ 
+Страница ошибки 404 «Документ не найден»
+error_page
+442
+2019-02-22, 4:37 pm
+ 
+Скрыть из меню по умолчанию
+hidemenu_default
+Нет
+—
+ 
+Схема URL
+link_tag_scheme
+1
+2023-12-11, 11:08 am
+ 
+Записывать ошибки в журнал, если сниппет не найден
+log_snippet_not_found
+Да
+—
+ 
+parser_class
+parser_class
+pdoParser
+2022-12-14, 2:09 pm
+ 
+parser_class_path
+parser_class_path
+{core_path}components/pdotools/model/pdotools/
+2022-12-14, 2:09 pm
+ 
+Публиковать по умолчанию
+publish_default
+Нет
+—
+ 
+«Доступен для поиска» по умолчанию
+search_default
+Да
+—
+ 
+Название сайта
+site_name
+DBRUS
+2018-04-01, 2:29 pm
+ 
+Главная страница сайта
+site_start
+1
+—
+ 
+Сайт опубликован
+site_status
+Да
+—
+ 
+Сообщение о недоступности сайта
+site_unavailable_message
+The site is currently unavailable
+—
+ 
+Страница ошибки 503 «Сайт недоступен»
+site_unavailable_page
+0
+—
+ 
+Объединять поля ресурса с полями символической ссылки
+symlink_merge_fields
+Да
+—
+ 
+Страница ошибки 401 «Доступ запрещен»
+unauthorized_page
+1
+—
+ 
+Использовать целевую веб-ссылку
+use_weblink_target
+Нет
+—
+ 
+XHTML-совместимые URL
+xhtml_urls
+Да
+—
+ 
+Анонимные сессии
+anonymous_sessions
+Да
+—
+ 
+Имя пользователя по умолчанию
+default_username
+(anonymous)
+—
+ 
+Домен для сессионных куки
+session_cookie_domain
+ 
+—
+ 
+Сессионные куки в режиме HttpOnly
+session_cookie_httponly
+Да
+—
+ 
+Длительность хранения куки сессий
+session_cookie_lifetime
+604800
+—
+ 
+Путь для сессионных куки
+session_cookie_path
+ 
+—
+ 
+Session Cookie Samesite
+session_cookie_samesite
+ 
+—
+ 
+Шифрование сессионных куки
+session_cookie_secure
+Нет
+—
+ 
+Максимальное время жизни сессии
+session_gc_maxlifetime
+604800
+—
+ 
+Название класса-обработчика сессий
+session_handler_class
+modSessionHandler
+—
+ 
+Имя сессии
+session_name
+ 
+—
+ 
+Версия системы управления политиками доступа
+access_policies_version
+1.0
+—
+ 
+Разрешить перенаправление через контексты
+allow_forward_across_contexts
+Нет
+—
+ 
+Разрешить передачу HTML тегов в POST запросах
+allow_tags_in_post
+Нет
+—
+ 
+Разрешить исполнение кода в TV
+allow_tv_eval
+Да
+—
+ 
+Использовать PCLZip
+archive_with
+Нет
+—
+ 
+Автоматически проверять наличие обновлений пакетов
+auto_check_pkg_updates
+Да
+—
+ 
+Время жизни кэша результатов автоматической проверки наличия обновлений пакетов
+auto_check_pkg_updates_cache_expire
+15
+—
+ 
+Временная зона по умолчанию
+date_timezone
+ 
+—
+ 
+Режим отладки
+debug
+ 
+—
+ 
+Название файла журнала ошибок
+error_log_filename
+error.log
+—
+ 
+Путь к журналу ошибок
+error_log_filepath
+ 
+—
+ 
+Пакеты расширений
+extension_packages
+[{"collections":{"path":"[[++core_path]]components/collections/model/"}},{"amocrm":{"path":"[[++core_path]]components/amocrm/model/"}},{"simplequeue":{"path":"[[++core_path]]components/simplequeue/model/"}},{"minishop2":{"path":"[[++core_path]]components/minishop2/model/"}}]
+2025-05-11, 12:09 pm
+ 
+URL RSS-канала «Новости MODX»
+feed_modx_news
+https://feeds.feedburner.com/modx-announce
+2019-10-19, 10:57 am
+ 
+Отображение RSS-канала «Новости MODX»
+feed_modx_news_enabled
+Да
+—
+ 
+URL канала «Уведомления безопасности MODX»
+feed_modx_security
+https://forums.modx.com/board.xml?board=294
+2019-10-19, 10:57 am
+ 
+Отображение RSS-канала «Уведомления безопасности MODX»
+feed_modx_security_enabled
+Да
+—
+ 
+sendForward исключённые поля
+forward_merge_excludes
+type,published,class_key
+—
+ 
+Время жизни блокировки
+lock_ttl
+360
+—
+ 
+Устаревшие функции в журнале ошибок
+log_deprecated
+Да
+—
+ 
+Уровень записи сообщений в журнал ошибок
+log_level
+1
+—
+ 
+Метод вывода журнала ошибок
+log_target
+FILE
+—
+ 
+Отложенный некэшируемый парсинг
+parser_recurse_uncacheable
+Да
+—
+ 
+Определять имена хостов
+resolve_hostnames
+Нет
+—
+ 
+Отправлять заголовок X-Powered-By
+send_poweredby_header
+Нет
+—
+ 
+Разница во времени
+server_offset_time
+0
+—
+ 
+Тип сервера
+server_protocol
+https
+2018-07-26, 10:00 pm
+ 
+Посылать HTTP заголовки
+set_header
+Да
+—
+ 
+Дистрибутив
+settings_distro
+traditional
+2022-12-19, 4:51 pm
+ 
+Версия настроек
+settings_version
+2.8.5-pl
+2023-10-30, 9:35 pm
+ 
+URL помощи
+base_help_url
+//docs.modx.com/help/
+2021-06-14, 7:36 pm
+ 
+Использовать сжатый CSS
+compress_css
+Нет
+2018-04-01, 2:05 pm
+ 
+Использовать сжатые JavaScript-библиотеки
+compress_js
+Нет
+2018-04-01, 2:05 pm
+ 
+Максимальное количество сжимаемых JavaScript-файлов
+compress_js_max_files
+10
+—
+ 
+Подтверждать переход с несохраненными изменениями
+confirm_navigation
+Да
+—
+ 
+Включить сортировку контекстов в дереве ресурсов
+context_tree_sort
+Да
+—
+ 
+Поле для сортировки контекстов в дереве ресурсов
+context_tree_sortby
+rank
+—
+ 
+Направление сортировки контекстов в дереве ресурсов
+context_tree_sortdir
+ASC
+—
+ 
+Настройки публикации при копировании ресурсов
+default_duplicate_publish_option
+preserve
+—
+ 
+Источник файлов по умолчанию
+default_media_source
+1
+—
+ 
+Тип источника файлов по умолчанию
+default_media_source_type
+sources.modFileMediaSource
+—
+ 
+По умолчанию на странице
+default_per_page
+20
+—
+ 
+Включить перетаскивание в древовидных меню
+enable_dragdrop
+Да
+—
+ 
+Использовать Gravatar
+enable_gravatar
+Да
+—
+ 
+Учитывать членство во всех группах пользователей для настройки форм
+form_customization_use_all_groups
+Нет
+—
+ 
+Показывать текст подсказки рядом с полем
+inline_help
+Да
+—
+ 
+Основное меню
+main_nav_parent
+topnav
+—
+ 
+Формат даты в системе управления
+manager_date_format
+Y-m-d
+—
+ 
+URL фавиконки системы управления
+manager_favicon_url
+ 
+—
+ 
+Включить блокировку файлов JS/CSS-кэша
+manager_js_cache_file_locking
+Да
+—
+ 
+Время жизни кэша JS/CSS-файлов системы управления
+manager_js_cache_max_age
+3600
+—
+ 
+Корневая директория для сжатия JS/CSS
+manager_js_document_root
+ 
+—
+ 
+Включить zlib-сжатие для JS/CSS-файлов системы управления
+manager_js_zlib_output_compression
+Нет
+—
+ 
+Шаблон системы управления
+manager_theme
+default
+—
+ 
+Формат времени в системе управления
+manager_time_format
+g:i a
+—
+ 
+Отображать «Полное имя» в «шапке» системы управления
+manager_use_fullname
+Нет
+—
+ 
+Первый день недели
+manager_week_start
+0
+—
+ 
+Иконка источника файлов
+mgr_source_icon
+icon-folder-open-o
+—
+ 
+Иконка контекста
+mgr_tree_icon_context
+tree-context
+—
+ 
+Сортировка по умолчанию в диспетчере файлов
+modx_browser_default_sort
+name
+—
+ 
+Режим просмотра по умолчанию в диспетчере файлов
+modx_browser_default_viewmode
+grid
+—
+ 
+Скрыть файлы в диспетчере файлов
+modx_browser_tree_hide_files
+Да
+2019-02-17, 6:06 pm
+ 
+Отключить быстрый предпросмотр изображений
+modx_browser_tree_hide_tooltips
+Да
+—
+ 
+Сохранять индекс меню при дублировании ресурсов
+preserve_menuindex
+Да
+—
+ 
+Поле для названия узла в дереве ресурсов
+resource_tree_node_name
+pagetitle
+—
+ 
+Запасное поле для узла в дереве ресурсов
+resource_tree_node_name_fallback
+pagetitle
+—
+ 
+Поле подсказки для ресурса в дереве ресурсов
+resource_tree_node_tooltip
+ 
+—
+ 
+Использовать визуальный редактор
+richtext_default
+Да
+—
+ 
+Показывать заголовок «Категории» над вкладками с категориями при выводе TV
+show_tv_categories_header
+Да
+—
+ 
+Показывать описания пунктов в верхнем меню
+topmenu_show_descriptions
+Нет
+2019-02-22, 3:48 pm
+ 
+Поле сортировки дерева ресурсов
+tree_default_sort
+menuindex
+—
+ 
+ID корня дерева ресурсов
+tree_root_id
+0
+—
+ 
+Разместить TV ниже контента
+tvs_below_content
+Нет
+—
+ 
+Меню пользователя
+user_nav_parent
+usernav
+—
+ 
+Действие начального экрана
+welcome_action
+welcome
+—
+ 
+Пространство имен начального экрана
+welcome_namespace
+core
+—
+ 
+Показывать окно приветствия
+welcome_screen
+Нет
+2018-04-01, 2:13 pm
+ 
+URL окна приветствия
+welcome_screen_url
+//misc.modx.com/revolution/welcome.26.html
+—
+ 
+Язык
+cultureKey
+ru
+2018-04-01, 2:05 pm
+ 
+Язык текстового редактора во фронтенде сайта
+fe_editor_lang
+en
+—
+ 
+Локаль
+locale
+ 
+—
+ 
+Направление текста в системе управления
+manager_direction
+ltr
+—
+ 
+Языковые атрибуты HTML и XML системы управления
+manager_lang_attribute
+ru
+2018-04-01, 2:05 pm
+ 
+Язык системы управления
+manager_language
+ru
+2018-04-01, 2:05 pm
+ 
+Кодировка символов
+modx_charset
+UTF-8
+—
+ 
+Использовать библиотеку "mbstring"
+use_multibyte
+Да
+2018-04-01, 2:05 pm
+ 
+Разрешить абсолютный путь к статическим ресурсам
+resource_static_allow_absolute
+Нет
+—
+ 
+Путь к статическим ресурсам
+resource_static_path
+{assets_path}
+—
+ 
+Автоматизировать статические элементы для чанков?
+static_elements_automate_chunks
+Нет
+—
+ 
+Автоматизировать статические элементы для плагинов?
+static_elements_automate_plugins
+Нет
+—
+ 
+Автоматизировать статические элементы для сниппетов?
+static_elements_automate_snippets
+Нет
+—
+ 
+Автоматизировать статические элементы для шаблонов?
+static_elements_automate_templates
+Нет
+—
+ 
+Автоматизировать статические элементы для TV?
+static_elements_automate_tvs
+Нет
+—
+ 
+Путь к файлам статических элементов
+static_elements_basepath
+ 
+—
+ 
+Категория для статических элементов по умолчанию
+static_elements_default_category
+0
+—
+ 
+Источник файлов для статических элементов по умолчанию
+static_elements_default_mediasource
+0
+—
+ 
+static_elements_html_extension
+static_elements_html_extension
+.tpl
+—
+ 
+Путь для диспетчера файлов (Устарело)
+filemanager_path
+ 
+—
+ 
+Путь для диспетчера файлов относительный? (Устарело)
+filemanager_path_relative
+Да
+—
+ 
+URL диспетчера файлов (Устарело)
+filemanager_url
+ 
+—
+ 
+URL диспетчера файлов относительный? (Устарело)
+filemanager_url_relative
+Да
+—
+ 
+Путь к ресурсам
+rb_base_dir
+ 
+—
+ 
+URL ресурсов (устарело)
+rb_base_url
+ 
+—
+ 
+Переписывать пути для браузера?
+strip_image_paths
+Да
+—
+ 
+Проверять файлы на существование при загрузке
+upload_check_exists
+Да
+—
+ 
+Разрешённые к загрузке файлы
+upload_files
+txt,html,htm,xml,js,css,zip,gz,rar,z,tgz,tar,mp3,mp4,aac,wav,au,wmv,avi,mpg,mpeg,pdf,doc,docx,xls,xlsx,ppt,pptx,jpg,jpeg,png,tiff,svg,svgz,gif,psd,ico,bmp,odt,ods,odp,odb,odg,odf,md,ttf,woff,eot,scss,less,css.map,webp,woff2,tpl,avif,json
+2024-03-14, 1:43 am
+ 
+Разрешенные к загрузке flash-файлы
+upload_flash
+swf,fla
+—
+ 
+Разрешенные к загрузке изображения
+upload_images
+jpg,jpeg,png,gif,psd,ico,bmp,tiff,svg,svgz,webp,avif
+2023-10-30, 9:35 pm
+ 
+Максимальный размер загрузки
+upload_maxsize
+2097152
+2018-04-01, 2:05 pm
+ 
+Разрешенные к загрузке медиа-файлы
+upload_media
+mp3,wav,au,wmv,avi,mpg,mpeg
+—
+ 
+Разрешить диспетчер файлов
+use_browser
+Да
+—
+ 
+Название файла контроллера запроса
+request_controller
+index.php
+—
+ 
+Строгий метод запроса
+request_method_strict
+Нет
+—
+ 
+Название параметра запроса для псевдонима
+request_param_alias
+q
+—
+ 
+Название параметра запроса для ID
+request_param_id
+id
+—
+1
+300

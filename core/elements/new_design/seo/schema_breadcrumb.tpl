@@ -32,11 +32,18 @@
 
     {var $list = []}
     {foreach $items as $i => $item}
+        {*
+          Для главной (i == 0) URL берём из настройки site_url —
+          $_modx->makeUrl(site_start, ..., 'full') в этой версии MODX
+          возвращает пустую строку, и Google ругается на missing "item".
+          Для остальных пунктов makeUrl работает корректно.
+        *}
+        {var $itemUrl = $i == 0 ? $url : $_modx->makeUrl($item.id, '', '', 'full')}
         {set $list[] = [
             '@type'    => 'ListItem',
             'position' => $i + 1,
             'name'     => $item.name,
-            'item'     => $_modx->makeUrl($item.id, '', '', 'full')
+            'item'     => $itemUrl
         ]}
     {/foreach}
 

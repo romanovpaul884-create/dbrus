@@ -1,0 +1,68 @@
+# ===== MODX Revolution 3.x =====
+
+# --- Кэш и логи ---
+core/cache/
+core/export/
+core/packages/*
+!core/packages/.gitkeep
+core/components/*/cache/
+assets/components/*/cache/
+
+# --- Логи ---
+*.log
+core/error.log
+core/cache/logs/
+manager/logs/
+logs/
+
+# --- Локальные конфиги (содержат пароли БД, ключи) ---
+core/config/config.inc.php
+core/config/*.inc.php
+!core/config/sample.config.inc.php
+config.core.php
+manager/config.core.php
+connectors/config.core.php
+ht.access
+.htaccess.local
+
+# --- Пользовательские загрузки / медиа ---
+assets/uploads/
+assets/files/
+assets/images/_thumbs/
+assets/components/*/uploads/
+
+# --- Сессии / временные ---
+core/sessions/
+core/tmp/
+tmp/
+
+# --- Установщик (после установки удаляется/закрывается) ---
+setup/
+
+# ===== IDE / OS =====
+.idea/
+.vscode/
+*.sublime-*
+.DS_Store
+Thumbs.db
+*.swp
+*~
+
+# ===== Composer / Node (если будут использоваться в кастомных компонентах) =====
+vendor/
+node_modules/
+package-lock.json
+composer.lock
+
+# ===== Бэкапы / архивы =====
+*.bak
+*.sql
+*.sql.gz
+*.tar.gz
+*.zip
+backup/
+backups/
+
+# ===== Локальные переменные окружения =====
+.env
+.env.local
